@@ -26,3 +26,8 @@ nav {
   background: #568EA3;
   color: white;
 }
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+}
