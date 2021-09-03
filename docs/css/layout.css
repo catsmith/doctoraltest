@@ -12,6 +12,8 @@ body {
 header {
   background: #826251;
   color: white; 
+  font-size: 14pt;
+  padding: 10px;
 }
 
 main {
