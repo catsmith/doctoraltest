@@ -8,13 +8,12 @@ body {
 }
 
 header {
- background: #826251;
-}
-
-header {
- color: white; 
+  background: #826251;
+  color: white; 
 }
 
 main {
- background: #FFE8D1; 
+  background: #FFE8D1; 
+  layout: grid;
+  grid-columns: 50px auto;
 }
