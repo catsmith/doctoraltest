@@ -2,9 +2,9 @@
   <ul>
     <li>Home</li>
     <li {% if page.url contains 'biographies' %}class="active"{% endif %}><a href="biographies/">Biographies</a></li>
-    <li>Methodology</li>
-    <li>Taxonomy</li>
-    <li>Transcriptions</li>
-    <li>Downloads</li>
+    <li {% if page.url contains 'methodology' %}class="active"{% endif %}><a href="methodology/">Methodology</a></li>
+    <li {% if page.url contains 'taxonomy' %}class="active"{% endif %}><a href="taxonomy/">Taxonomy</a></li>
+    <li {% if page.url contains 'transcriptions' %}class="active"{% endif %}><a href="transcriptions/">Transcriptions</a></li>
+    <li {% if page.url contains 'downloads' %}class="active"{% endif %}><a href="downloads/">Downloads</a></li>
   </ul>
 </nav>
