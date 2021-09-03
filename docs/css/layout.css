@@ -5,6 +5,8 @@
 
 body {
     font-family: Junicode,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 header {
