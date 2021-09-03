@@ -7,7 +7,14 @@ body {
     font-family: Junicode,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+header {
+ background: #826251;
+}
 
-h1 {
-  color: green;
+header {
+ color: white; 
+}
+
+main {
+ background: #FFE8D1; 
 }
