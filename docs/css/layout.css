@@ -57,5 +57,7 @@ div.content h1 {
 footer {
   background: #826251;
   color: white;
-  font-size: 0.7em;
+  font-size: 0.8em;
+  padding-top: 8px;
+  text-align: center;
 }
