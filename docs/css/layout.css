@@ -19,7 +19,7 @@ header {
 main {
   background: #FFE8D1; 
   display: grid;
-  grid-columns: 50px auto;
+  grid-template-columns: max-content auto;
 }
 
 nav {
