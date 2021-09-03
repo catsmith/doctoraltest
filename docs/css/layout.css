@@ -37,6 +37,10 @@ nav ul {
   padding-left: 0;
 }
 
-div.ccontent {
+div.content {
   padding: 20px; 
+}
+
+footer {
+  background: #68c3d4;
 }
