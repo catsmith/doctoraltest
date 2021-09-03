@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI><teiHeader><fileDesc>
+    <titleStmt>
+        <title>A Transcription of Memorias by Leonor Lopez de Cordoba</title>
+    </titleStmt>
+    <publicationStmt><p>Holly Brown</p></publicationStmt>
+    <sourceDesc><p>Columbine Library</p></sourceDesc>
+</fileDesc></teiHeader><text><body>
+    <div type="book" n="M">
+        <pb n="1r"/>
+        <div n="1">
+            <ab n="100"><seg type="intertext" subtype="biblical">En el nombre de <seg type="authority" subtype="God">Padre</seg>, y <seg type="authority" subtype="Jesus">del hijo</seg>, y <seg type="authority" subtype="Holy Spirit">del es
+                <lb rend="hyphen" break="no"/>piritu S<am>.ͭͦ</am><ex>anto</ex></seg>, asi como era
+                <lb/>en el comienzo, asi es agora, y p<am>.ͬ</am><ex>or</ex> el Siglo delos
+                <lb/>Siglos amen=</seg></ab> <ab n="200"><seg type="clerical" subtype="prayer">En el nombre del qual <choice><abbr>Sobred<am>̄</am>h<am>̄</am>o</abbr><expan>Sobre<ex>dicho</ex></expan></choice>
+                    <lb/><seg type="authority" subtype="God">S<am>.ͦ</am><ex>eñor</ex></seg>, y <seg type="authority" subtype="Virgin">dela Virgen S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name> su <seg type="parent" subtype="mother">Madre</seg></seg>, y
+                    <lb/>S<am>.ͣ</am><ex>eñora</ex> y Abogada delos Pecadores, y ã honrra, y
+                    <lb/>en salsam<am>.ͭͦ</am><ex>ento</ex> de todos los Angeles, e<am>̄</am> S<am>.ͭͦ̾</am><ex>antos</ex> y S<am>.ͭͣ̾</am><ex>antas</ex>
+                    <lb/>dela Corte del Cielo amen=</seg></ab></div><note resp="hkbobs">Some critics have made reference to the fact that this formal opening indicates a lack of authorship on the part of Leonor and a strong presence of a notary in her work</note>
+        <div n="2"><ab n="100"><lb/>Por ende, Sepan q<am>.ͭͦ̾</am><ex>uantos</ex> esta en<am>.ͬͣ</am><ex>tera</ex> vieren<note resp="hkbobs">that her readership bear witness and "see" her truth is very important for Leonor as is who her parentage is</note>, co
+            <lb rend="hyphen" break="no"/>mo <seg type="I">yo</seg> <person>D<am>.ͣ</am><ex>oña</ex> Leonor Lopez de Cor<am>.ᵇͣ</am><ex>doba</ex></person>, fija de mi
+            <lb/>S<am>.ͦͬ</am><ex>eñor</ex> <person>El <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice> D<am>.ᷠ</am><ex>on</ex><choice><abbr>Mr<am>̄</am>n</abbr><expan>M<ex>arti</ex>n</expan></choice> Lopez de Cor<am>.ᵇͣ</am><ex>doba</ex></person>, e<am>̄</am> <person>D<am>.ͣ</am><ex>oña</ex>
+                <lb/>Sancha Carrillo</person>, ã q<am>.ᷠ</am><ex>uien</ex> de<am>̄</am> <seg type="authority" subtype="God">Dios</seg> gloria, y Paray
+            <lb rend="hyphen" break="no"/>so=</ab> <ab n="200"><seg type="laic" subtype="testament">Juro p<am>.ͬ</am><ex>or</ex> esta significanza de ♰, enq<am>.ͤ</am><ex>ue</ex> <seg type="I">Yo</seg>
+                <lb/>adoro, como todo esto q<am>.ͤ</am><ex>ue</ex> aquí es escrito es
+                <lb/>verdad q<am>.ͤ</am><ex>ue</ex> lo vi, y pasõ p<am>.ͬ</am><ex>or</ex> mi</seg>, <note resp="hkbobs">what Leonor writes is true because she saw it and it happened to her. In other words she is an eye witness to the events she relates and her life functions as an example</note> y escribolo ã
+                
+                <pb n="1v"/>honrra, y alabanza de mi S<am>.ͦͬ</am><ex>eñor</ex> <seg type="authority" subytype="Jesus">Jesu Christo</seg>,
+                <lb/>e<am>̄</am> de <seg type="authority" subtype="Virgin">la Virgen S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name> su <seg type="parent" subtype="mother">Madre</seg></seg> q<am>.ͤ</am><ex>ue</ex>lo pa
+                <lb rend="hyphen" break= "no"/>riõ,</ab><ab n="300"><choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> todas las criaturas q<am>.ͤ</am><ex>ue</ex> estubieren
+                    <lb/>en tribulacion sean ciertos <note resp="hkbobs">this demonstrates an awareness of audience and an understanding that her words have the power to help others. Her life as an exempla, to teach others.</note>, q<am>.ͤ</am><ex>ue</ex> <seg type="I">yo</seg> espero ensu
+                    <lb/>misericordia, q<am>.ͤ</am><ex>ue</ex> si se encomiendan de cora
+                    <lb rend="hyphen" break="no"/>zon ã <seg type="authority" subtype="Virgin">la Virgen S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name></seg>, q<am>.ͤ</am><ex>ue</ex> <seg type="genre" subtype="consolation">Ella las conso
+                        <lb rend="hyphen" break="no"/>larã, y acorrerã como consolõ a mi</seg><note resp="hkbobs">the Virgin Mary as the savior for women and a role model. Leonor again uses herself as an example</note></ab><ab n="400">y <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>
+                            <lb/>quien lo oyere sepan <seg type="laic" subtype="relacion">la relacion de todos mis
+                                <lb/>echos</seg> <note resp="hkbobs">"quien lo oyere" implicates a listening audience- perhaps women who cannot read?</note> e<am>̄</am> milagros q<am>.ͤ</am><ex>ue</ex> la <seg type="authority" subtype="Virgin">Virgen</seg>  S<am>.ͭͣ</am><ex>anta</ex> <name>Maria</name>, me
+                            <lb/> mostrõ</ab><note resp="hkbobs">The Virgen Mary shows Leonor miracles- related to visions</note></div>
+    </div></body></text></TEI>
