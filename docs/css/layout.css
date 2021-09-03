@@ -19,3 +19,8 @@ main {
   layout: grid;
   grid-columns: 50px auto;
 }
+
+nav {
+  background: #568EA3;
+  color: white;
+}
