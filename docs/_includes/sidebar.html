@@ -1,7 +1,7 @@
 <nav>
   <ul>
     <li>Home</li>
-    <li>Biographies</li>
+    <li {% if page.url contains '/biographies' %}class="active"{% endif %}><a href="/biographies">Biographies</a></li>
     <li>Methodology</li>
     <li>Taxonomy</li>
     <li>Transcriptions</li>
