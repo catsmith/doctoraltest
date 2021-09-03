@@ -38,10 +38,15 @@ nav ul {
   padding-left: 0;
 }
 
+nav ul li {
+  padding-top: 5px; 
+}
+
 div.content {
   padding: 20px; 
 }
 
 footer {
-  background: #68c3d4;
+  background: #826251;
+  color: white;
 }
