@@ -1,3 +1,13 @@
+@font-face {
+  font-family: Junicode;
+  src: url(junicode-woff-1.002/Junicode.woff);
+}
+
+body {
+    font-family: Junicode,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
 h1 {
   color: green;
 }
