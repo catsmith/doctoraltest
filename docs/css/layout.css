@@ -25,9 +25,14 @@ main {
 nav {
   background: #568EA3;
   color: white;
+  padding-right: 20px;
 }
 
 nav ul {
   list-style: none;
   padding-left: 0;
+}
+
+div.ccontent {
+  padding: 20px; 
 }
