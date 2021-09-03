@@ -16,7 +16,7 @@ header {
 
 main {
   background: #FFE8D1; 
-  layout: grid;
+  display: grid;
   grid-columns: 50px auto;
 }
 
