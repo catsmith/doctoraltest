@@ -46,6 +46,10 @@ nav ul li {
   padding-bottom: 5px;
 }
 
+nav ul li.active {
+  background: red; 
+}
+
 nav ul li a {
   color: white;
   text-decoration: none;
