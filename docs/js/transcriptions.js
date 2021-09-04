@@ -1,6 +1,7 @@
 subtypeLookup = {};
 
-$().ready(
+$.ready(
+    console.log('hello');
     addHandlers();
 );
 
