@@ -1,5 +1,9 @@
 subtypeLookup = {};
 
+$().ready(
+    addHandlers();
+)
+
 function addHandlers () {
 
     calculateSubtypeLookup();
