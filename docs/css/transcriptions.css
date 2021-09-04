@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Junicode;
+  src: url(junicode-woff-1.002/Junicode.woff);
+}
+
+body {
+    font-family: Junicode,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+span.page-break {
+    font-weight: bold;
+}
+
+span.chapter {
+    color: red;
+}
+
+span.sentence {
+    color: grey;
+    font-size: small;
+}
+
+span.note {
+    color: blue;
+}
+
+span.ex {
+    display: none;
+}
+
+.highlighted-type {
+    text-decoration: underline;
+}
+
+.highlighted-subtype {
+    font-weight: bold;
+}
+
+select {
+    margin-right: 10px;
+}
