@@ -56,6 +56,11 @@ nav ul li a {
   text-decoration: none;
 }
 
+nav ul.submenu {
+  padding-right: 40px;
+  font-size: 0.9em;
+}
+
 div.content {
   padding: 20px; 
 }
