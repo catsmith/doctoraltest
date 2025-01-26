@@ -59,7 +59,7 @@ function addHandlers () {
 };
 
 function calculateSubtypeLookup() {
-  let subtype, subtypeList, details;
+  let subtypes, subtypeList, details;
   subtypes = document.getElementById('subtype-values').value;
   subtypeList = subtypes.split('|');
   for (let i=0; i<subtypeList.length; i+=1) {
