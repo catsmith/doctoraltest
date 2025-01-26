@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI><teiHeader><fileDesc>
-<titleStmt>
-<title>A Transcription with commentary of Memorias</title>
-</titleStmt>
-<publicationStmt><p>Holly Brown</p></publicationStmt>
-<sourceDesc><p></p></sourceDesc>
+    <titleStmt>
+        <title>A Transcription with commentary of Arboleda de los enfermos/ Grove of the Infirm by Teresa de Cartagena</title>
+    </titleStmt>
+    <publicationStmt><p>Holly Brown</p></publicationStmt>
+    <sourceDesc><p>The original manuscript is from the National Library of the Escorial in Madrid, Spain</p></sourceDesc>
 </fileDesc></teiHeader>
 <text><body>
-
+<div n="M">
 <pb n="1r"/>
 <div n="1">
 <ab n="100">
@@ -432,5 +432,5 @@ q<am>.ͤ</am><ex>ue</ex> no lo soterrasen dentro de la V<am>.ͣ</am><ex>illa</ex
 <lb rend="hyphen" break="no"/>ceis ã mi Nuera D<am>.ͣ</am><ex>oña</ex> theresa q<am>.ͤ</am><ex>ue</ex> tan mala in
 <lb rend="hyphen" break="no"/>tencíon os tiene,<note resp="HKBOBS">another enemy, with the criada, the primas, her maternal uncles, it is clear that half of Leonor's family is against her because she is close to her aunt. Is this a commentary on her relationship with Queen Catalina?</note></ab> <ab n="7000">y yo le dixe con m<am>.ˢ</am><ex>is</ex> lagrimas:
 <lb/>Serã Dios no me salve si mereci <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>,</ab> <ab n="7100">y asi vi
-<lb rend="hyphen" break="no"/>neme ã mis casas ã Cor<am>.ͬ</am><ex>doba</ex>:</ab></div></body></text>,
+<lb rend="hyphen" break="no"/>neme ã mis casas ã Cor<am>.ͬ</am><ex>doba</ex>:</ab></div></div></body></text>,
 </TEI>
