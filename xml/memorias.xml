@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI><teiHeader><fileDesc>
-    <titleStmt>
-        <title>A Transcription with commentary of Arboleda de los enfermos/ Grove of the Infirm by Teresa de Cartagena</title>
-    </titleStmt>
-    <publicationStmt><p>Holly Brown</p></publicationStmt>
-    <sourceDesc><p>The original manuscript is from the National Library of the Escorial in Madrid, Spain</p></sourceDesc>
-</fileDesc></teiHeader>
+<TEI>
+<teiHeader><fileDesc><titleStmt><title>A transcription of "Memorias" by Leonor López de Cordoba </title></titleStmt><publicationStmt><p>Published as a part of a digital edition for Holly Brown's dissertation</p></publicationStmt>
+<sourceDesc><p>Manuscript "C" Manuel de Ayora, 1778. MS. 59-5-31. Institucion Colombina, Seville</p></sourceDesc></fileDesc>
+</teiHeader>
+
 <text><body>
-<div n="M">
+
+
 <pb n="1r"/>
 <div n="1">
 <ab n="100">
@@ -265,7 +264,7 @@ En el nombre de Dios Padre, y del hijo, y del es
 <lb rend="hyphen" break="no"/>peranza enla virgen S<am>ͭͣ</am><ex>anta</ex> Maria q<am>.ͤ</am><ex>ue</ex> me da
 
 <pb n="6r"/><lb rend="hyphen" break="no"/>ria casa</ab><note resp="HKBMary">The Virgin helps Leonor acquire a home.</note> <ab n="1900">En esto vino un robo dela Juderia <note resp="HKB">Image of the judería in Córdoba</note>
-<lb/>y tomé un niño huerfano, q<am>.ͤ</am><ex>ue</ex> tenia, <choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>p<e>ara</e>q<ex>ue</ex></expan></choice> fuese 
+<lb/>y tomé un niño huerfano, q<am>.ͤ</am><ex>ue</ex> tenia, <choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>paraq<ex>ue</ex></expan></choice> fuese 
 <lb/>instruido en la feé, hizelo baptizar <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> fue
 <lb rend="hyphen" break="no"/>se instruido en la feé:</ab><ab n="2000">y un dia viniendo con
 <lb/>mi S<am>.ͣ</am><ex>eñora</ex> tia de misa de San Hipolito, aquellos
@@ -287,17 +286,17 @@ En el nombre de Dios Padre, y del hijo, y del es
 <lb/><ab n="2300">y ende llegõ ã mi un criado del <choice><abbr>Mr<am>̄</am>e</abbr><expan>M<ex>aest</ex>re</expan></choice> mi S<am>.ͦͬ</am><ex>eñor</ex>
 <lb/>e<am>̄</am> Padre, q<am>.ͤ</am><ex>ue</ex> vive con Martin <choice><abbr>fer<am>̄</am>z</abbr><expan>fern<ex>ande</ex>z</expan></choice> Alcayde de
 <lb/> los Donzeles, q<am>.ͤ</am><ex>ue</ex> alli estaba oyedo misa, y
-<lb/>enbiele ã pedir con aquel criado suyo, <choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>p<e>ara</e>q<ex>ue</ex></expan></choice>
+<lb/>enbiele ã pedir con aquel criado suyo, <choice><abbr>p<am>.ͣ</am>q<am>.ͤ</am></abbr><expan>para q<ex>ue</ex></expan></choice>
 <lb/>como Pariente le diese las gracias ãla S<am>.ͣ</am><ex>eñora</ex> 
 <lb/>mi tia dela <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> q<am>.ͤ</am><ex>ue</ex> me havia echo,</ab> <ab n="2400">y ã El
   
 <pb n="6v"/>plugiole mucho, y asi lo hizo con buena mensura
 <lb/>diciendoles q<am>.ͤ</am><ex>ue</ex> esta <choice><abbr>mr<am>̄</am>d</abbr><expan>m<ex>e</ex>r<ex>ce</ex>d</expan></choice> recevia el p<am>.ͬ</am><ex>or</ex> suya:</ab> <ab n="2500">e<am>̄</am> da
-<lb rend="hyphen" breal="no"/>dome la Posecion abri una Puerta en el sitio, 
+<lb rend="hyphen" break="no"/>dome la Posecion abri una Puerta en el sitio, 
 <lb/>y Lugar a<am>.ͤ</am><ex>ue</ex> havia visto el arco, q<am>.ͤ</am><ex>ue</ex> la Virgen
 <lb/>Maria me mostrõ,</ab><note resp="HKBrhet">reference to a vision</note> <ab n="2600">e<am>̄</am> ã los Abades les pesõ q<am>.ͤ</am>me 
 <lb/>entregasem el dicho Solar, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> Yo era de gran
-<lb rend="hyphen" breal="no"/>de Linaje, y q<am>.ͤ</am><ex>ue</ex> mis hijos serian Grandes, y
+<lb rend="hyphen" break="no"/>de Linaje, y q<am>.ͤ</am><ex>ue</ex> mis hijos serian Grandes, y
 <lb/>ellos eran Abades, y q<am>.ͤ</am><ex>ue</ex> no havian menester
 <lb/>Grandes Cav<am>.ͬͦ̾</am><ex>alleros</ex> cabe si,</ab> <ab n="2700">y Yo tubelo p<am>.ͬ</am><ex>or</ex> buen
 <lb/>proberbio, y dijeles esperaba en Dios q<am>.ͤ</am><ex>ue</ex> asi se
@@ -335,7 +334,7 @@ En el nombre de Dios Padre, y del hijo, y del es
 <lb/>ida, y recivieronme con mucho grasajo, <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>
 <lb/>havian sido criados del S<am>.ͬ</am><ex>eñor</ex> mi Padre, y asi
 <lb/>me dieron la mejor casa q<am>.ͤ</am><ex>ue</ex> havia en el Lu
-<lb rend="hyphen" breal="no"/>gar, q<am>.ͤ</am><ex>ue</ex> era la de Fern<am>.ͩͦ</am><ex>ando</ex> Alonso Mediabarba,</ab><note resp="HKBOBS">Leonor misses no opportunity to praise herself and inflate her reputation</note>
+<lb rend="hyphen" break="no"/>gar, q<am>.ͤ</am><ex>ue</ex> era la de Fern<am>.ͩͦ</am><ex>ando</ex> Alonso Mediabarba,</ab><note resp="HKBOBS">Leonor misses no opportunity to praise herself and inflate her reputation</note>
 <lb/><ab n="3500">y estando sin sospecha entró mi S<am>.ͣ</am><ex>eñora</ex> tia con
 <lb/>sus hijas, e<am>̄</am> yo aparteme ã una quadra pe
 <lb rend="hyphen" break="no"/>quena, y sus hijas, mis Primas nunca es
@@ -426,11 +425,12 @@ q<am>.ͤ</am><ex>ue</ex> no lo soterrasen dentro de la V<am>.ͣ</am><ex>illa</ex
 <lb/>sime lo mandaba Ella,</ab> <ab n="6800">Ella me dijo Sobrina
 <lb/>S<am>.ͣ</am><ex>eñora</ex> no puedo dexar de hazerlo, q<am>.ͤ</am><ex>ue</ex> ã mi Nuera
 <lb/>y ã mis fijas e<am>̄</am> prometido <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice> son echas en
-<lb/>uno, y en tanto me hãn afligido q<am>.ͤ</am><ex>ue</ex> os parta <seg place="rm">de mi</seg>
+<lb/>uno, y en tanto me hãn afligido q<am>.ͤ</am><ex>ue</ex> os parta <seg type="rm">de mi</seg>
 
 <pb n="9r"/> que selo ove otorgado,</ab> <ab n="6900">e<am>̄</am> esto no se q<am>.ͤ</am><ex>ue</ex> enojo ha
 <lb rend="hyphen" break="no"/>ceis ã mi Nuera D<am>.ͣ</am><ex>oña</ex> theresa q<am>.ͤ</am><ex>ue</ex> tan mala in
 <lb rend="hyphen" break="no"/>tencíon os tiene,<note resp="HKBOBS">another enemy, with the criada, the primas, her maternal uncles, it is clear that half of Leonor's family is against her because she is close to her aunt. Is this a commentary on her relationship with Queen Catalina?</note></ab> <ab n="7000">y yo le dixe con m<am>.ˢ</am><ex>is</ex> lagrimas:
 <lb/>Serã Dios no me salve si mereci <choice><abbr>p<am>.ͬ</am>q<am>.ͤ</am></abbr><expan>p<ex>or</ex>q<ex>ue</ex></expan></choice>,</ab> <ab n="7100">y asi vi
-<lb rend="hyphen" break="no"/>neme ã mis casas ã Cor<am>.ͬ</am><ex>doba</ex>:</ab></div></div></body></text>,
+<lb rend="hyphen" break="no"/>neme ã mis casas ã Cor<am>.ͬ</am><ex>doba</ex>:</ab></div></body></text>
+
 </TEI>
