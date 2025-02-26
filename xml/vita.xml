@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI><teiHeader><fileDesc>
 <titleStmt>
-<title>A Transcription of an excerpt from the Vita Christi by Isabel de Villena</title>
+<title>A Transcription of chapters from the Vita Christi by Isabel de Villena</title>
 </titleStmt>
 <publicationStmt><p>Holly Brown</p></publicationStmt>
 <sourceDesc><p>Biblioteca Nacional de España</p></sourceDesc>
@@ -21,14 +21,14 @@
 <lb/>dda y plorosa <seg type="intertext" subtype="bible">vall de lagrimes de aquest mon miserable.</seg><note resp="hkbobs"> Sixto-Clementine version of the Latin Vulgate uses the phrase "valle lacrimarum" in Psalm 83:7</note></seg></ab> <ab n="200"> los quiab ales dalguna mun
 <lb/>ddana laor se alçen: <seg type="rhetoric" subtype="metaphor">mes profundament en lo baix centre del penos infern deuallen
 <lb/>E los quiper les baixes sendes de simple humilitat acaminen: mes a la summitat de
-<lb/><seg type="intertext" subtype="bible">la Ciutat de paradis</seg> se acosten.</seg></ab> <ab n="300"><seg type="rhetoric" subtype="Captatio Benevolentiae">La virtuosa y dignissima mare Abbadessa prede
+<lb/><seg type="intertext" subtype="bible">la Ciutat de paradis</seg> se acosten.</seg></ab> <ab n="300"><seg type="rhetoric" subtype="Captatio Benevolentiae">La virtuosa y dignissima <seg type="lexis" subtype="mother">mare</seg> Abbadessa prede
 <lb/>dcessora mia: ab <note resp="hkbobs">this is the first mention of "light" and "clarity" that is a theme in Sor Aldonça's letter to the Queen</note>la lum del seu clar enteniment: mirant los perilla que la mundana
 <lb/>laor porta: en tan baix centre de humilitant era deuallada: que no <seg type="intertext" subtype="metatext">volgue scriure lo
 <lb/>seu nom en alguna part de aquest libre.</seg></seg></ab> <ab n="400">Tement que les sues virtuoses obres dins
 <lb/>los archius de humilitat tanchades: perles iniques <seg type="lexis" subtype="body">mans</seg> de vana gloria no po=
 <lb/>guessen esser assaltades: <seg type="rhetoric" subtype="metaphor">hi resplandint en ella les ençeses antorches de la claredat</seg> de
 <lb/>son <note resp="hkbobs">Villena's familial lineage was an issue because her father wasn't married to her nmother when she was born, even though she grew up in his household</note> illustrissiz linatge.</ab> <ab n="500">Axicon sos reals parente hauien sembrat innumerables actes
-<lb/>de gloriosa fama: per exaltacio de la sancta fe christiana ella deuotissima mare ha
+<lb/>de gloriosa fama: per exaltacio de la sancta fe christiana ella deuotissima <seg type="lexis" subtype="mother">mare</seg> ha
 <lb/>volgut sembrar <seg type="intertext" subtype="metatext">en lo blanch paper de aquest libre</seg> La lauor de la sua apurada con
 <lb/>sciencia: <seg type="rhetoric" subtype="didactic">perque los quil legissen poguessen collir <seg type="rhetoric" subtype="metaphor">fruyt de profitosa doctrina.</seg></seg></ab> <ab n="600">Su
 <lb break="no"/>plicantal <seg type="lexis" subtype="God">gran Rey <seg type="lexis" subtype="God"> Jesus</seg></seg> volgues esser lo <seg type="rhetoric" subtype="metaphor">naucher y pilot de la barcha de son enten
@@ -44,17 +44,17 @@
 <lb/>cara per atots los qui en aquesta breuenugosa y transitoria vida viuen.</seg></ab> <ab n="1000"><seg type="lexis" subtype="I">Yo serenis
 <lb break="no"/>dsima e christianissima senyora</seg> lo tramet asa altesa en lo qual trobara tant profundes
 <lb/>e altes sentencies que clarament conexera que <seg type="lexis" subtype="authority">lo sperit sanct era lo regidor del en
-<lb/>tenimente ploma</seg><note resp="hkbobs">the holy spirit was in fact at work in Villena's "plume"</note> de <seg type="lexis" subtype="authority">tant dignissima e Reuerent mare qui era tant affectada al ser
+<lb/>tenimente ploma</seg><note resp="hkbobs">the holy spirit was in fact at work in Villena's "plume"</note> de <seg type="lexis" subtype="authority">tant dignissima e Reuerent <seg type="lexis" subtype="mother">mare</seg> qui era tant affectada al ser
 <lb break="no"/>duici de vuestra celsitut.</seg></ab> <ab n="1100">Lo stat y vida de la qual exalce hi prospere la sanctissima Tri
 <lb break="no"/>dniitat.</ab> <ab n="1200">De la vuestra <seg type="lexis" subtype="place">ciutat de Valencia.</seg></ab> <ab n="1300">a .xxviiii. del mes de mare any. Mil. CCCC.
 <lb/>lxxxxvij.</ab><ab n="1400">R.U.M.DC</ab></div>
           
-<div n="2"><fw type="sig" place="brm">¶ <seg type="rhetoric" subtype="Captatio Benevolentiae">Humil seruenta e oradora</seg> <seg type="lexis" subtype="name">sor Aldonça de mont
-<lb/>soriu indigna Abbadessa</seg> del <seg type="lexis" subtype="place">monestir de la san-
+<div n="2"><fw type="sig" place="brm">¶ <seg type="rhetoric" subtype="Captatio Benevolentiae">Humil seruenta e oradora</seg> <seg type="lexis" subtype="name">sor <name>Aldonça de mont
+<lb/>soriu</name> indigna Abbadessa</seg> del <seg type="lexis" subtype="place">monestir de la san-
 <lb rend="hyphen" break="no"/>cta Trinitat.</seg></fw></div>
                 
                 
-<pb n="2r"/><fw type= "header" place= "tm">La anunciatio de la conceptio de la mare de deu.</fw>  <fw type= "2" place="tr">II</fw></div>
+<pb n="2r"/><fw type= "header" place= "tm">La anunciatio de la conceptio de la <seg type="lexis" subtype="mother">mare</seg> de deu.</fw>  <fw type= "2" place="tr">II</fw></div>
 <cb n="a"/>
 <div n="3"><head rend="h1" n="Rubric"><hi rend="init1"><lb/><ab n="100">Açi comença hun <seg type="intertext" subtype="metatext">
 <lb/>christi en romanç</seg> <seg type="rhetoric" subtype="didactics">per que
@@ -86,7 +86,7 @@
 <lb break="no"/>na: e que pera ser aquesta obra tan alta
 <lb/>era necessarisa clemencia deuallas en
 <lb/>la terra de la captiuitar: hon eren exel
-<lb break="no"/>lats los miserables <seg type="lexis" subtype="children">fills</seg> de Adam.</seg></ab> <ab n="300">E
+<lb break="no"/>lats los miserables <seg type="lexis" subtype="children">fills</seg> de <name>Adam</name>.</seg></ab> <ab n="300">E
 <lb/>sabia molt cert que en tota la dita ter
 <lb break="no"/>ra noy hauia posada decent<note resp="hkobs">a running theme throug out the VC is the concept of physical space, the construction of and the Virgen as a home space.</note> pera sa al
 <lb/>tesa reposar.</ab> <ab n="400">Per que li plague manar
@@ -202,7 +202,7 @@
 <lb/>es ferlo sol.</ab><ab n="3900">Car nostre <seg type="lexis" subtype="authority">señyor deuque
 <lb/>es verdader sol de justicia</seg> naxera de <seg type="lexis" subtype="authority">a
 <lb/>questa senyora<seg type="lexis" subtype="daughter">filla</seg> </seg> vostra: eternalment-
-<lb rend="hyphen" break="no"/>la ha elegida per temple seu.</ab><ab n="4000">de la qual
+<lb rend="hyphen" break="no"/>la ha elegida per <seg type="lexis" subtype="place">temple</seg> seu.</ab><ab n="4000">de la qual
 <lb/>se por dir enueritat.</ab><ab n="4100"><seg type="lexis" subtype="latin">Mhocest tem-
 <lb/>pluz del magnum et famosuz: in quo
 <lb/>malleus y ferreum non sunt audita cum
@@ -216,7 +216,7 @@
 <lb rend="hyphen" break="no"/>ni colp de martell de nenguna culpa
 <lb/>en ella no sera sentit.</ab><ab n="4400">Car aquesta es
  
-<pb n="3r"/><fw type= "header" place= "tm">La anunciatio de la conceptio de la mare de deu.</fw> <fw type= "3" place="tr">III</fw> 
+<pb n="3r"/><fw type= "header" place= "tm">La anunciatio de la conceptio de la <seg type="lexis" subtype="mother">mare</seg> de deu.</fw> <fw type= "3" place="tr">III</fw> 
 <cb n="a"/>
 <lb/>la imperial reyna que no es entesa ni
 <lb/>compresa en nenguna ley comuna: ans
@@ -224,9 +224,9 @@
 <lb/>te sed pro omnibus hec lex constitu=
 <lb rend="hyphen" break="no"/>ta est.</ab><ab n='4600'>Volent dir parlantab aquesta
 <lb/>senyora en la sua noua concepcio: no te
-<lb/>man temple meuque ab torvos de=
+<lb/>man <seg type="lexis" subtype="place">temple</seg> meuque ab torvos de=
 <lb rend="hyphen" break="no"/>ualleu de la natura propria del linat=
-<lb rend="hyphen" break="no"/>ge de Adam no sereu compresa en la
+<lb rend="hyphen" break="no"/>ge de <name>Adam</name> no sereu compresa en la
 <lb/><seg rend="ul">ley perlo seu peccat constituyda: ans</seg>
 <lb/>sobre aquella priuilegiada per gracia
 <lb/>mia en singular gran ¶ Quia ego e
@@ -235,7 +235,7 @@
 <lb/>meus delits.</ab><ab n="4800">O <seg type="lexis" subtype="name">Joachim</seg> que li por
 <lb/>fallir a aquesta senyora que nostre sen=
 <lb rend="hyphen" break="no"/>yor deu la vulla crear delliberadament-
-<lb/>per a mare sua.</ab><ab>Car ensemps ab dig
+<lb/>per a <seg type="lexis" subtype="mother">mare</seg> sua.</ab><ab>Car ensemps ab dig
 <lb/>nitar maternal a conseguira totes les
 <lb/>excellencies que fora deu comunicar
 <lb/>se poden a creatura angelica ni huma=
@@ -255,11 +255,11 @@
 <lb/>palacium filijdel: et sponsalis thala-
 <lb/>mus patris eterni.</ab><ab n="5300">Car verdadera
 <lb/>ment aquesta senyora es lo excelleni
-<lb/>temple del sperit sanct: e lo palau real
+<lb/><seg type="lexis" subtype="place">temple</seg> del sperit sanct: e lo palau real
 <lb/>del <seg type="lexis" subtype="son">fill</seg> de deuie lo gran thalem del spo
 
 <cb n="b"/>   
-<lb/>salici del pare eternal A la qual diu <seg type="lexis" subtype="God">no
+<lb/>salici del <seg type="lexis" subtype="father">pare</seg> eternal A la qual diu <seg type="lexis" subtype="God">no
 <lb/>stre senyor</seg> deu per <seg type="lexis" subtype="body">boca</seg> de <seg type="lexis" subtype="name">Dauid</seg>
 <lb/>¶ Elevanta estmagnificencia tua su
 <lb/>percelos.</ab><ab n="5400"><seg type="rhetoric" subtype="exegesis">Volent dir que sa magestar
@@ -271,7 +271,7 @@
 <lb/>Car primerament posara vn <seg type="lexis" subtype="material">excellent
 <lb/>carboncle en lo seu cap</seg>: ço es la singu
 <lb break="no"/>lar e ferma memoria desa seyoria hon
-<lb/>sera aposentat <seg type="lexis" subtype="God">lo eternal pare</seg> mostrant
+<lb/>sera aposentat <seg type="lexis" subtype="God">lo eternal <seg type="lexis" subtype="father">pare</seg></seg> mostrant
 <lb/>la sua infinida potencia e <seg type="rhetoric" subtype="metaphor">en aquesta pri
 <lb break="no"/>mera cambra per sa magestat tan do
 <lb/>tada.</seg></ab><ab n="5600"><seg type="rhetoric" subtype="metaphor">La segona cambra: quies es lo
@@ -292,7 +292,7 @@
 <lb/>te te similis tui fuerit: nec post te sur=
 <lb rend="hyphen" break="no"/>recturus sit.</seg></ab><ab n="5900"><seg type="rhetoric" subtype="exegesis">Volent dir: lo <seg type="lexis" subtype="son">fill</seg> de deu
 <lb/>a la senyora nouament creada.</seg></ab><ab n="6000"><lb/>i
-<lb/>Yous he elegida <seg type="lexis" subtype="space">temple</seg> per a mi heus
+<lb/>Yous he elegida <seg type="lexis" subtype="space"><seg type="lexis" subtype="place">temple</seg></seg> per a mi heus
 <lb/>dat core memoria sapientissime molt
 <lb/>intelligent en tanta habundancia en co
 <lb break="no"/>pia que alguans de vos no ses trobat
@@ -302,7 +302,7 @@
 <lb rend="hyphen" break="no"/>a</seg> iij
     
     
-<pb n="3v"/><fw type= "header" place= "tm">La anunciatio de la conceptio de la mare de deu.</fw>
+<pb n="3v"/><fw type= "header" place= "tm">La anunciatio de la conceptio de la <seg type="lexis" subtype="mother">mare</seg> de deu.</fw>
 <cb n="a"/><lb/>yora tota inflamada e aqui saposen=
 <lb rend="hyphen" break="no"/>tara lo sperit sanct estrenant a ella en
 <lb/>la primera entrada <seg type="lexis" subtype="person">los set dons seus</seg>:
@@ -321,7 +321,7 @@
 <lb/>triades per totlo imperi seu set don=
 <lb rend="hyphen" break="no"/>zelles de singular excellencia: que ser
 <lb/>uixquen e acompauyen sa senyoria dis
-<lb/><seg type="lexis" subytpe="body">lo ventre</seg> de samare: e en totlo tenps
+<lb/><seg type="lexis" subytpe="body">lo ventre</seg> de sa<seg type="lexis" subtype="mother">mare</seg>: e en totlo tenps
 <lb/>de la sua vida perque aquestes sien les
 <lb/>primeres criades e persa merçemes
 <lb/>amades.</ab><ab n="6700">To nom de la primera se
@@ -356,7 +356,7 @@
 <lb/>gran excellencia: sials respost.</ab><ab n="7500"> ¶ <seg type="lexis" subtype="Latin">Do
 <lb rend="hyphen" break="no"/>minus opus habet.</seg></ab><ab n="7600">Volentdir tal la
 <lb/>mester lo senyor deu eternal: per a es=
-<lb rend="hyphen" break="no"/>ser mare sua: ell la ha pintada e deuisa
+<lb rend="hyphen" break="no"/>ser <seg type="lexis" subtype="mother">mare</seg> sua: ell la ha pintada e deuisa
 <lb/>da tal com la hauia necessaria: ya ell
 <lb/>era plaent.</ab><ab n="7700">E <seg type="lexis" subtype="name">Joachim</seg> hoydes estes
 <lb/>rahons ixque quasi fora si mateix axi-
@@ -388,11 +388,11 @@
 <lb/>¶ <seg type="lexis" subtype="latin">Sine me nichil potestis facere.</seg></ab><ab n="8600"><lb/>Ueritat es que plaua sa clemencia que
 <lb/>apres sa senyoria vos siaulo obrer de
 <lb/>aquesta casa e reporten la gloria de ha=
-<lb rend="hyphen" break="no"/>uer hedificat lo temple de deu molt-
+<lb rend="hyphen" break="no"/>uer hedificat lo <seg type="lexis" subtype="place">temple</seg> de deu molt-
 <lb/>pus excellentsens comparacio que <name>Sa-
 <lb rend="hyphen" break="no"/>lamo</name> e haureu aquesta progatiua sin=
 <lb rend="hyphen" break="no"/>gular entre tots los sancts que sereu
-<lb/>dit pare de la mare de deue per aque=
+<lb/>dit <seg type="lexis" subtype="father">pare</seg> de la <seg type="lexis" subtype="mother">mare</seg> de deue per aque=
 <lb rend="hyphen" break="no"/>sta causa sobre tots honrat.</ab><ab n="8700">E hoyni-
 <lb/>aço <name>Joachin</name> prostras en terra e ado=
 <lb rend="hyphen" break="no"/>ra nostre senyor deu regraciant li lee
@@ -404,7 +404,7 @@
 <lb/>mens paria impossible de yo hauer
 <lb/><seg type="lexis" subtype="children">fills</seg> e per aquesta causa so stat tan t vi-
 <lb rend="hyphen" break="no"/>tuperat e menyspreat: e ab gran vitu-
-<lb rend="hyphen" break="no"/>peri del temple lançat: com a vos <seg type="lexis" subtype="God">sen=
+<lb rend="hyphen" break="no"/>peri del <seg type="lexis" subtype="place">temple</seg> lançat: com a vos <seg type="lexis" subtype="God">sen=
 <lb rend="hyphen" break="no"/>yor</seg> ha plagut esstat possible e fae=
 <lb rend="hyphen" break="no"/>dor.</ab><ab n="9100"><seg type="lexis" subtype="Latin">¶ Quia non est confusio speran
 <lb/>tibus inte.</seg></ab><ab n="9200">Car no poden esser confu=
@@ -508,10 +508,10 @@
 <cb n="b"/>
 <lb/>la seruitur diuina: lo que parrien ara-
 <lb/>sian certa senyora: que la vostra <seg type="lexis" subtype="daughter">filla</seg>
-<lb/>es lo verdader temple: hon lo eternal
+<lb/>es lo verdader <seg type="lexis" subtype="place">temple</seg>: hon lo eternal
 <lb/>deu y senyor sera viste adorate de el=
 <lb rend="hyphen" break="no"/>la sera cantat.</ab><ab>Templum del sanc=
-<lb rend="hyphen" break="no"/>tum est.</ab><ab>Car aquest temple sera sanct-
+<lb rend="hyphen" break="no"/>tum est.</ab><ab>Car aquest <seg type="lexis" subtype="place">temple</seg> sera sanct-
 <lb/>de singular sanctedat.</ab><ab>Vos glorio=
 <lb rend="hyphen" break="no"/>sa <seg type="lexis" subtype="authority"><name>Anna</name></seg> no demanan <seg type="lexis" subtype="daughter">filla</seg> bella cor=
 <lb/>por alment: car sabien la bellea esser a
@@ -548,7 +548,7 @@
 
 
 <pb n="5r"/> <fw type= "header" place= "tm">Com lo mateix angel reuela.</fw> <fw type= "5" place="tr">V</fw>
-<lb/>e que ella hauia de esser mare de
+<lb/>e que ella hauia de esser <seg type="lexis" subtype="mother">mare</seg> de
 <lb/>vna tan excellent <seg type="lexis" subtype="daughter">filla</seg>: La dolor
 <lb/>sua fon conuertida en sobtos e sin
 <lb/>gular golgre alegrantie de gran a
@@ -658,12 +658,12 @@
 <lb/>rameses acompanyar e seruir la
 <lb/>senyora nouament nada ensempe-
 <lb/>ab les altres quiiay eren en la ser-
-<lb/>uitur de sa senyoria.</ab><ab>E feta gran
+<lb rend="hyphen" break="no"/>uitur de sa senyoria.</ab><ab>E feta gran
 <lb/>reuerencia: acostarense a besar la
 <lb/>ma a sa alteza.</ab><ab>E dix la primera:
 <lb/>penignitat nomenada.</ab><ab>O pulera
 <lb/>ad intuendum: amabilis ad con-
-<lb/>templandun: delectabilis ad aman-
+<lb rend="hyphen" break="no"/>templandun: delectabilis ad aman-
 <lb/>amandum.</ab><ab>Volentdir: O seuyo
 <lb/>ra quant sou bella e graciosa als
 <lb/>vlls quius miren: O quant sou a
@@ -679,31 +679,31 @@
 <lb/>tu es vita mea: tu lumen oculorun-
 <lb/>meorum: y tu baculuz senectutis
 <lb/>mee.</ab><ab>Volentdir: O seuyora excel-
-<lb/>lent: la magestat de nostre senyor
+<lb rend="hyphen" break="no"/>lent: la magestat de nostre senyor
 <lb/>deuma trames a vos: e yo qui y
 <lb/>vinch de molta bona voluntat:
 <lb/>car fins a huy nohe trobat james
 <lb/>persona qui de boncor ne volunta-
-<lb/>riament maja receptat sino vostra
+<lb rend="hyphen" break="no"/>riament maja receptat sino vostra
 <lb/>senyoria: perque puch be dir: que
 <lb/>son la gloria mia: e la mia vida: e
 <lb/>lum dels meus vlls: e basto de la
 <lb/>mia vellea.</ab><ab>Car en lo temps esdi
 <lb/>uenidor com lo mon se refredara
 <lb/>sols per lo exemple vostre sere so-
-<lb/>stenguda e amada.</ab><ab>E perço la mia
+<lb rend="hyphen" break="no"/>stenguda e amada.</ab><ab>E perço la mia
 <lb/>senyora vos do la fe de may par-
-<lb/>tirme de vostra merce en toda la
+<lb rend="hyphen" break="no"/>tirme de vostra merce en toda la
 <lb/>vida vostra.</ab><ab>La terça donzella pru
 <lb/>dencia dix: Conserua me domina:
 <lb/>quoniaz sperauiinte.</ab><ab><seg type="rhetoric" subtype="exegesis">volent dir
 <lb/>Coma senyora puix a nostre seny-
-<lb/>or ha plagut que yo sia en la serui-
+<lb rend="hyphen" break="no"/>or ha plagut que yo sia en la serui-
 <lb/>tur vostra: suplich vostra senyoria 
 <lb/>me vulle conseruar en la amor e vo-
-<lb/>luntat deles genis.</seg></ab><ab>car pochs sor
+<lb rend="hyphen" break="no"/>luntat deles genis.</seg></ab><ab>car pochs sor
 <lb/>qui me conexen: pra tinch esperan-
-<lb/>ça: que perlo mija de la senyoria
+<lb rend="hyphen" break="no"/>ça: que perlo mija de la senyoria
 <lb/>vostra: yo sere estimada honrada
 <lb/>Yi-
 
@@ -750,12 +750,12 @@
 <lb/>canella en la ma mirante contemplant-
 <lb/>aquella dolçor de cara a ella tan plaen-
 <lb/>de veure.</ab><ab>E complits los huytanta
-<lb/>dies la gloriosa <seg type="lexis" subtype="authority"><name>Anna</name></seg> ana al temple
+<lb/>dies la gloriosa <seg type="lexis" subtype="authority"><name>Anna</name></seg> ana al <seg type="lexis" subtype="place">temple</seg>
 <lb/>portant la sua amada <seg type="lexis" subtype="daughter">filla</seg> al bras per-
 <lb/>fer gracies a nostre senyor deuque la y-
 <lb/>hauia donada: e pero fferir los sacri-
 <lb/>ficis que la ley manaua.</ab><ab>E venintal
-<lb/>temple vehentla lo gran sacerdot ix-
+<lb/><seg type="lexis" subtype="place">temple</seg> vehentla lo gran sacerdot ix-
 <lb/>que la a recebir ab gran goig: car sa-
 <lb/>bia lo desig grandissim: que tenia de
 <lb/>hauer <seg type="lexis" subtype="children">fills</seg>.</ab><ab>Car moltes vegades ab-
@@ -803,10 +803,10 @@
 <lb/>dauant agenollada besant li los pe-
 <lb/>uets e manetes ab goigno recompta-
 <lb/>ble.</ab><ab>E la humilissima senyora no po-
-<lb/>dent comportar que la sua mare li fes-
+<lb/>dent comportar que la sua <seg type="lexis" subtype="mother">mare</seg> li fes-
 <lb/>tals seruirs ab totno parlas mostra-
 <lb/>ua en la sua careta no li plahyien sem-
-<lb/>blants coses.</ab><ab>E la virtuosa mare que
+<lb/>blants coses.</ab><ab>E la virtuosa <seg type="lexis" subtype="mother">mare</seg> que
 <lb/>en res no pensaua mes sino en com-
 <lb/>plaure aquella excellent <seg type="lexis" subtype="daughter">filla</seg>: conexent-
 <lb/>la voluntat sua posa fi en lo seu propri-
@@ -847,7 +847,7 @@
 <lb/>via sua si per venir volran al repos seu-
 <lb/>Occupauas la dita senyora en conti-
 <lb/>nua oracio: car souint la trobaua la
-<lb/>sua mare ab les mans plegades los
+<lb/>sua <seg type="lexis" subtype="mother">mare</seg> ab les mans plegades los
 <lb/>ulls leuati al cel mostrant en lo seu gest
 <lb/>¶ Quia in domino delectabatur: er
 <lb/>angelica fruebatur dulcedine.</ab><ab>Car
@@ -876,7 +876,7 @@
 <lb/>dia a nostre semyor deuque li plagues
 <lb/>remeyar e guarir aquella cruel dolor
 <lb/>e malaltia enfectionada deuallant de
-<lb/>Adam e comprenent tots los <seg type="lexis" subtype="children">fills</seg> ses:
+<lb/><name>Adam</name> e comprenent tots los <seg type="lexis" subtype="children">fills</seg> ses:
 <lb/>la pudor de la qual infectio hauia tan
 <lb/>cades les portes de peradys: e no si tro
 <lb/>baua en la terra qui obrir lals pogues-
@@ -912,7 +912,7 @@
 <lb/>cate clos perlo peccat de <name>Adam</name> ha-
 <lb/>bundaua en infinides lagrimes supli-
 <lb/>cant la clemencia diuina donas fi en
-<lb/>aquest exili de <name>Adame</name> dels <seg type="lexis" subtype="children">fills</seg> seus
+<lb/>aquest exili de <name>Adam</name> e dels <seg type="lexis" subtype="children">fills</seg> seus
 <lb/>els reduhis a la gracia e amor sua.</ab><ab>E
 <lb/>en aquesta peticio continua la senyo-
 <lb/>ra fins mereixque obtenir lo que de-
@@ -930,7 +930,7 @@
 <lb/>çe nengu que fe haja no parteiy fati-
 <lb/>gat.</ab><ab>E com mes crexia la senyora
 <lb/>molt mes augmentaua lo goigdela
-<lb/>sua sanctissima mare <seg type="lexis" subtype="authority"><name>Anna</name></seg> adelitant-
+<lb/>sua sanctissima <seg type="lexis" subtype="mother">mare</seg> <seg type="lexis" subtype="authority"><name>Anna</name></seg> adelitant-
 <lb/>se infinidament en mirarla e contem-
 <lb/>plarla.</ab><ab>E com comença sa senyoria
 <lb/>anar prenia la perles manetes e aiu-
@@ -955,7 +955,7 @@
 <lb/>consolacio inestimable que pendreu
 <lb/>hoyint la paraula sua.</seg></ab><ab>E <seg type="lexis" subtype="name">Joachim</seg>-
 <lb/>venint ab singular goig hoynt que la
-<lb/>senmyora <seg type="lexis" subtype="daughter">filla</seg> sua lo nomenaua pare ab
+<lb/>senmyora <seg type="lexis" subtype="daughter">filla</seg> sua lo nomenaua <seg type="lexis" subtype="father">pare</seg> ab
 <lb/>aquella ven angelica ixque quasi de si
 <lb/>mateix per alegria inestimable e cor-
 <lb/>regue la abraçar: e alçantla en alt de
@@ -972,25 +972,25 @@
 <lb/>en pau de aquesta mortal vida: puys
 <lb/>tan glorios nom reportare de esser pa-
 <lb/>re de vna tant excellent <seg type="lexis" subtype="daughter">filla</seg>.</ab><ab>E com-
-<lb/>la lexaua lo pare prenia la mare e axi-
+<lb/>la lexaua lo <seg type="lexis" subtype="father">pare</seg> prenia la <seg type="lexis" subtype="mother">mare</seg> e axi-
 <lb/>sa legrauen los dos ab aquella bena-
 <lb/>uenturada <seg type="lexis" subtype="daughter">filla</seg>.</ab><ab>O be son dignes de
-<lb/>molta veneracio lo pare e mare que tal
+<lb/>molta veneracio lo <seg type="lexis" subtype="father">pare</seg> e <seg type="lexis" subtype="mother">mare</seg> que tal
 <lb/>joya han al mon produyda: e podez
 <lb/>dir lohante magnificant la nostra sen-
 <lb/>yora.</ab><ab>¶ Benedicti sint pater et ma-
 <lb/>ter: qui te genuerunt: quorum memo-
 <lb/>ria permanebit in eternum.</ab><ab>Volent
 <lb/>dir.</ab><ab>O seuyora y quantes lo mon ob-
-<lb/>ligat a beneyr y lo har lo pare vostre:
-<lb/>e mare quius han engenrat la memo-
+<lb/>ligat a beneyr y lo har lo <seg type="lexis" subtype="father">pare</seg> vostre:
+<lb/>e <seg type="lexis" subtype="mother">mare</seg> quius han engenrat la memo-
 <lb/>ria dels quals immortal restara en to-
 <lb/>tes les generacions presents e esdeue
 <lb/>nidores.</ab></div>    
 
 <div n="8"><lb/>Capitol.v.<ab>com Joachi-
 <lb/>e <seg type="lexis" subtype="authority"><name>Anna</name></seg> portaren la sua er-
-<lb/>cellent <seg type="lexis" subtype="daughter">filla</seg> al temple.</ab><ab>e de-
+<lb/>cellent <seg type="lexis" subtype="daughter">filla</seg> al <seg type="lexis" subtype="place">temple</seg>.</ab><ab>e de-
 <lb/>les virtuts que acompa-
 <lb/>yarensa senyoria.</ab><ab><lb/>omplits los tres anys an-
 <lb/>Ena leua la let a la sua excel-
@@ -1004,7 +1004,7 @@
 <lb/>tat engenra menyspren.</ab><ab>E recordant-
 <lb/>se la dita <seg type="lexis" subtype="authority"><name>Anna</name></seg> del vor que hauia fer-
 <lb/>ans que la concebes: dellibera offerir
-<lb/>la al temple a nostre seyor deu:e que
+<lb/>la al <seg type="lexis" subtype="place">temple</seg> a nostre seyor deu:e que
 <lb/>ensemps ab les altres donzelles: fos
 <lb/>aqui separada e apartada de la prati-
 <lb/>ca e vista deles gents: e sols occupa-
@@ -1037,8 +1037,8 @@
 <lb/>hentlos en aquell piados plor: e sa-
 <lb/>bent la cansa per que axi eren <seg type="lexis" subtype="body">affligits</seg>-
 <lb/> <seg type="clerical" subtype="performance"><seg type="informative" subtype="explanation">dixlos.</seg></seg></ab><ab><seg type="lexis" subtype="latin">Hec est voluntas del: vi-
-<lb/>ego vadam.</seg></ab><ab><seg type="rhetoric" subtype="exegesis">Volent dir senyor pare-
-<lb/>e vos sen vora mare nous congoxen:
+<lb/>ego vadam.</seg></ab><ab><seg type="rhetoric" subtype="exegesis">Volent dir senyor <seg type="lexis" subtype="father">pare</seg>-
+<lb/>e vos sen vora <seg type="lexis" subtype="mother">mare</seg> nous congoxen:
 <lb/>car aquesta es la voluntat de nostre
 <lb/>senyor deuque yo vaja him separe de
 <lb/>vosaltres: per donar exemple als es-
@@ -1067,46 +1067,46 @@
 <lb/>dexebles vostres aquesta liço.</ab><ab>¶Fuge
 <lb/>re consorcium hominum: et non con
 <lb/>cursare per alienas edes: necdemora-
-<lb/>ri inplateis.</ab><ab>Car es molt necessari a
+<lb rend="hyphen" break="no"/>ri inplateis.</ab><ab>Car es molt necessari a
 <lb/>les dites vergens fugir a tota familia
 <lb/>ritat de homens: e no voler molt pra-
-<lb/>ticar per cases estranyes: ne esser grans visi-
-<lb/>tadores: ne aturar molten los lochs
+<lb rend="hyphen" break="no"/>ticar per cases estranyes: ne esser grans visi-
+<lb rend="hyphen" break="no"/>tadores: ne aturar molten los lochs
 <lb/>hon comunament multitur de gentse-
 <lb/>aiusta.</ab><ab>Perço senyora vos qui sou lo
 <lb/>exemplar de virturs vos cloureu huy
-<lb/>dins lo temple: e aqui stant en solitur-
+<lb/>dins lo <seg type="lexis" subtype="place">temple</seg>: e aqui stant en solitur-
 <lb/>pendreu tanta amor ab mi que fareu
 <lb/>vor solemne de mayperdre la mia con-
-<lb/>panyia.</ab><ab>E laltra donzella qui era no
+<lb rend="hyphen" break="no"/>panyia.</ab><ab>E laltra donzella qui era no
 <lb/>menada amor de solitur dix asa senyo
 <lb/>ria.</ab><ab>Oma senyora: a nostre senyor
 <lb/>plau que yo sia la compauyia vostra
-<lb/>en lo temple: car sab sa magestat que
+<lb/>en lo <seg type="lexis" subtype="place">temple</seg>: car sab sa magestat que
 <lb/>qui ama solitur es molt dispost a re-
 <lb/>bre los seus dons e gracies: e com sa-
 <lb/>clemencia dellibere comunicar a vos-
-<lb/>tra merce majors secrets e misteris que
+<lb rend="hyphen" break="no"/>tra merce majors secrets e misteris que
 <lb/>james a pura creatura haja comuni-
-<lb/>cats: per que dic a vostra senyoria.</ab><ab><lb/>¶ Obliuiscere populum tuuz: er do-
+<lb rend="hyphen" break="no"/>cats: per que dic a vostra senyoria.</ab><ab><lb/>¶ Obliuiscere populum tuuz: er do-
 <lb/>muz patris tui.</ab><ab>Car necessari es als
 <lb/>viuints en solitur no solament esser a
 <lb/>partats corporalment deles coses mun-
-<lb/>danes: ans han mester del totobli-
+<lb rend="hyphen" break="no"/>danes: ans han mester del totobli-
 <lb/>dar la generacio sua: e la casa del pro-
-<lb/>pri pare.</ab><ab>E perço vostra senyoria qui-
+<lb rend="hyphen" break="no"/>pri <seg type="lexis" subtype="father">pare</seg>.</ab><ab>E perço vostra senyoria qui-
 <lb/>Com <seg type="lexis" subtype="name">Joaqchime</seg> <seg type="lexis" subtype="authority"><name>Anna</name></seg>
 <lb/>va super semitas justicie fa huy obra
 <lb/>de gran exemplar lexant en tan ten-
-<lb/>dra edat la compañyia tan amada de
-<lb/>la virtuosa mare e pare vostres: e ques
+<lb rend="hyphen" break="no"/>dra edat la compañyia tan amada de
+<lb/>la virtuosa <seg type="lexis" subtype="mother">mare</seg> e <seg type="lexis" subtype="father">pare</seg> vostres: e ques
 <lb/>pensa vostra merçe sen seguira de aço-
 <lb/>¶ Quia concupiuit rey speciem tuan-
 <lb/>Car lo rey del cel vehent vos axi apar-
 <lb/>tada deles gents enamorarsa de la vo-
 <lb/>stra bellea: e pendraus per sposa.</ab><ab>Axi-
 <lb/>senyora mirau si fareu bon cambi de
-<lb/>lexarlo pare e Mare mortals: per-
+<lb/>lexarlo <seg type="lexis" subtype="father">pare</seg> e <seg type="lexis" subtype="mother">mare</seg> mortals: per-
 <lb/>hauer lo rey de vida perspos.</ab><ab>Eles
 <lb/>altres dos donzelles qui hauien nom-
 <lb/>dolçor de contemplacio: e laltra dili-
@@ -1114,7 +1114,7 @@
 <lb/>yora ab molta reuerencia e amor.</ab><ab>E
 <lb/>dixli dolçor de contemplacio.</ab><ab>Exce-
 <lb/>llent senyora nostre senyor de u mana
-<lb/>queus porten al temple.</ab><ab>¶ Quia o-
+<lb/>queus porten al <seg type="lexis" subtype="place">temple</seg>.</ab><ab>¶ Quia o-
 <lb/>porter vos semporare.</ab><ab>Car vos sou
 <lb/>la vera contemplatiua que en oracio
 <lb/>hauen a occupar tota la vida vostra:
@@ -1125,8 +1125,8 @@
 <lb/>stio ora patrem tuum.</ab><ab>Coes que com-
 <lb/>volreu orar que vostra altesa se retra-
 <lb/>gua en la pus secreta celleta: que tro-
-<lb/>bareu en lo temple: e aqui tancada la
-<lb/>porta oraren al pare vostre celestial:
+<lb/>bareu en lo <seg type="lexis" subtype="place">temple</seg>: e aqui tancada la
+<lb/>porta oraren al <seg type="lexis" subtype="father">pare</seg> vostre celestial:
 <lb/>qui sol abvos sola les sues amors e-
 <lb/>dolçors vol comunicar.</ab><ab>E laltra don-
 <lb/>zella no menada diligencia virtuosa
@@ -1159,12 +1159,12 @@
 <lb/>rats de la gloria e bella compañyia de la
 <lb/>sua sancta <seg type="lexis" subtype="daughter">filla</seg> aturarense vn poch de
 <lb/>tras: e anauen li de propab molta re-
-<lb/>uerencia.</ab><ab>E venint al temple foren a
+<lb/>uerencia.</ab><ab>E venint al <seg type="lexis" subtype="place">temple</seg> foren a
 <lb/>que en la entrada: hon hauia vna bella
 <lb/>scala de pedra: per hon pujauen a les
-<lb/>altees del temple.</ab><ab>E aqui la senyora
-<lb/>se gira per pendre comiat de son pare-
-<lb/>e de sa mare e besantlos les mans ab-
+<lb/>altees del <seg type="lexis" subtype="place">temple</seg>.</ab><ab>E aqui la senyora
+<lb/>se gira per pendre comiat de son <seg type="lexis" subtype="father">pare</seg>-
+<lb/>e de sa <seg type="lexis" subtype="mother">mare</seg> e besantlos les mans ab-
 <lb/>malta amor se despedi dells: los quals
 <lb/>ab grans lagrimes la besaren donant-
 <lb/>li largament cascu la sua benedictio
@@ -1175,12 +1175,12 @@
 
 <div n="9">
 <lb/>Capitol.vj.<ab>compujant-
-<lb/>la senyora al temple per la
+<lb/>la senyora al <seg type="lexis" subtype="place">temple</seg> per la
 <lb/>scala dels.</ab><ab>Tv.</ab><ab>graons in-
 <lb/>duyda perles virtuts dix
 
 <lb/>E
-<lb/>Com pujant la senyora al temple-
+<lb/>Com pujant la senyora al <seg type="lexis" subtype="place">temple</seg>-
 
 <lb/>los.</ab><ab>v.pres.</ab><ab>primers del canti-
 <lb/>cugradun suplicantpla re-
@@ -1263,7 +1263,7 @@
 <lb/>que dicta sunt michi: i domun dniibitr-
 
 
-<lb/>Compujantla senyora al temple-
+<lb/>Compujantla senyora al <seg type="lexis" subtype="place">temple</seg>-
 <lb/><seg type="rhetoric" subtype="exegesis">Volent dir: O senyor e quanta alegria
 <lb/>redunda en la mia anima hoynte le-
 <lb/>gintlo que los prophetes han dit e scrit-
@@ -1278,7 +1278,7 @@
 <lb/>tots los vents de aquella li son contra
 <lb/>ris: entre enemichssta e habita.</ab><ab>E si
 <lb/>alguna vegada los dita miserables
-<lb/>fils de Adam oblidantse del loch hon-
+<lb/>fils de <name>Adam</name> oblidantse del loch hon-
 <lb/>son: e de la sua infelicitat e miserable
 <lb/>cayguda: se volen leuar en superbia:
 <lb/>lo vent de mutabilitat los ve al encom-
@@ -1313,7 +1313,7 @@
 <lb/>nar los vostres piadosos vlls: e mi-
 <lb/>rar en la terra: e veureu los homens per-
 <lb/>vos creats los quals perlo peccat del
-<lb/>seu pare son stats venuts e catiuats
+<lb/>seu <seg type="lexis" subtype="father">pare</seg> son stats venuts e catiuats
 <lb/>en poder de aquell gran tira cruel lo
 <lb/>diable: qui nos delita sino en la mort-
 <lb/>e destructio dels homes: e nengun nols
@@ -1341,8 +1341,8 @@
 <lb/>yoria.</ab><ab>O ma senyora que besar vos
 <lb/>vull la ma per la gran solicitut que te
 <lb/>niu de aquestos pobres e miserables
-<lb/><seg type="lexis" subtype="children">fills</seg> de Adam: qui de si ni persires no
-<lb/>Lo admirable pujament de la senyora al temple-
+<lb/><seg type="lexis" subtype="children">fills</seg> de <name>Adam</name>: qui de si ni persires no
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>-
 <lb/>A
 
 
@@ -1428,7 +1428,7 @@
 <lb/>dir: o pietatimensa quant esla a la mia
 <lb/>a posolada e alegra: recordantme deles
 
-<lb/>Lo admirable pujament de la senyora al temple-
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>-
 
 <lb/>vuestres infinides misericordies per les quals
 <lb/>so molt certa vostra clemencia haura
@@ -1458,7 +1458,7 @@
 <lb/>terre vi discat populus tuus quia tu
 <lb/>es dominus deus noster.</ab><ab>Volent
 <lb/>dir: O senyor rey eternal deu verda-
-<lb/>der del nostre pare Abraam: placias
+<lb/>der del nostre <seg type="lexis" subtype="father">pare</seg> Abraam: placias
 <lb/>donarnos sobre la terra aquella plu-
 <lb/>ja tan desijada de la gracia e amor vo-
 <lb/>stra: e vos senyor deuallau ensempes
@@ -1484,7 +1484,7 @@
 <lb/>diuinal: en la qual casa no vol que nen-
 <lb/>guna creatura y entre.</ab><ab>E per aque-
 <lb/>sta gran presumpcio e deslealtat me-
-<lb/>reixque Adam perdre la casa propria
+<lb/>reixque <name>Adam</name> perdre la casa propria
 <lb/>e tota sa heretat per a ell e a tots sos
 <lb/><seg type="lexis" subtype="children">fills</seg>.</ab><ab>E james de lauors ença aquest
 <lb/>home sa pogut hedificar casa ni loch
@@ -1494,7 +1494,7 @@
 <lb/>sos <seg type="lexis" subtype="children">fills</seg> nunchase son millorats de
 <lb/>res: ans se stan en la dita terra pobres-
 <lb/>e freturosos de la gracia diuina.</ab><ab>E
-<lb/>morint Adam la millor cortesia que
+<lb/>morint <name>Adam</name> la millor cortesia que
 <lb/>ha pogut hauer es stada que lan mes-
 <lb/>en casa fosca: e aques troba huy ab los
 <lb/>millors de sos <seg type="lexis" subtype="children">fills</seg>: cridante suplicant
@@ -1513,7 +1513,7 @@
 <lb/>¶ Illa que sursum estiherusalem.
 
 
-<lb/>Lo admirable pujament de la senyora al temple.</ab><ab>      
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>.</ab><ab>      
 <lb/>An
 
 
@@ -1521,7 +1521,7 @@
 <lb/>lestial volria ell star e habitar.</ab><ab>      
 <lb/>E com aço ell atenyer no pot persos
 <lb/>propris treballs es posat en gran an-
-<lb/>gustia e tribulacioe Car al dix Adam-
+<lb/>gustia e tribulacioe Car al dix <name>Adam</name>-
 <lb/>es stat dite ell ho te per veritat infal-
 <lb/>lible.</ab><ab>¶ Quia nemo ascendit in celun:
 <lb/>nisi quide celo descendit.</ab><ab>Car negu-
@@ -1601,7 +1601,7 @@
 
 
 
-<lb/>Lo admirable pujament de la senyora al temple-
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>-
 
 
 <lb/>ment y mostrau vos prestament als ho-
@@ -1620,7 +1620,7 @@
 <lb/>stre senyor deu: Car infinits son los
 <lb/>mals que han encorregut del començ
 <lb/>del mon ença.</ab><ab>Car peccant los pri-
-<lb/>mers pares lançaren los <seg type="lexis" subtype="children">fills</seg> en mol
+<lb/>mers <seg typee="lexis" subtype="parents">pares</seg> lançaren los <seg type="lexis" subtype="children">fills</seg> en mol
 <lb/>ta dolor: e lo que es pijor queres del
 <lb/>seu treball nols a profita acobrar la he-
 <lb/>retat desijada.</ab><ab>Ans ab molta dolor
@@ -1631,7 +1631,7 @@
 <lb/>es molt difficils: e lo cami real de pa-
 <lb/>rays james lan trobat.</ab><ab>E perço ab-
 <lb/>los genolls ficats en terra los dits pe-
-<lb/>ccadors <seg type="lexis" subtype="children">fills</seg> de Adam supliquen vo
+<lb/>ccadors <seg type="lexis" subtype="children">fills</seg> de <name>Adam</name> supliquen vo
 <lb/>stra senyoria dient.</ab><ab>CIllumina nos
 <lb/>stella maris: quia in manutua salus
 <lb/>et vita consistunt.</ab><ab>Volentdir: Illu-
@@ -1685,7 +1685,7 @@
 <lb/>que als homes son justament deguts per-
 <lb/>los peccats propris vos misericordios
 
-<lb/>Lo admirable pujament de la senyora al temple-
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>-
 <lb/>An-
 
 <lb/>femyor los pendreu en la humanitat vo
@@ -1695,7 +1695,7 @@
 <lb/>les vostres nafres e blauures basten
 <lb/>a guarir les cruels malalties sues.</ab><ab><lb/>Axi senyor sia de vostra merçe fer vos
 <lb/>malalt per donar vida als tribulats
-<lb/><seg type="lexis" subtype="children">fills</seg> de Adam.</ab></div>     
+<lb/><seg type="lexis" subtype="children">fills</seg> de <name>Adam</name>.</ab></div>     
 
 <div n="11">
 <lb/>Capitol.viji.<ab>com pu-
@@ -1750,7 +1750,7 @@
 <lb/>ui ad te domine: domine exaudi vo-
 <lb/>cem meam.</ab><ab>Volent dir: o magestat
 <lb/>immensa los miserables catius <seg type="lexis" subtype="children">fills</seg>
-<lb/>de Adam cayguis en la profunda vall-
+<lb/>de <name>Adam</name> cayguis en la profunda vall-
 <lb/>de peccats de alli criden e demanen a-
 <lb/>vos senyor e dien¶ Veni ad redimen-
 <lb/>dum nos in brachio excelso.</ab><ab>Volent
@@ -1763,7 +1763,7 @@
 <lb/>de aquesta tribulada gent.</ab><ab>Car nen-
 <lb/>gun remey sens vos hauer no poden-
 <lb/>Del tresor infinit de la vostra miseri-
-<lb/>Lo admirable pujamentde la senyora al temple-
+<lb/>Lo admirable pujamentde la senyora al <seg type="lexis" subtype="place">temple</seg>-
 
 <lb/>cordia Senyor te a venir la copiosa
 <lb/>redempcio que ells desigen e han mester.</ab><ab><lb/>¶ No tardeu senyor magnifich de
@@ -1798,7 +1798,7 @@
 <lb/>dam de paradiso repulit.</ab><ab>Car la su
 <lb/>perbia ha lançat los angels de la glo-
 <lb/>ria celestial: e la mateixa superbia ha-
-<lb/>fer perdre a Adam la heretat de para
+<lb/>fer perdre a <name>Adam</name> la heretat de para
 <lb/>ys.</ab><ab>Perque vos excellent sen yora
 <lb/>qui souidoctoressa de la gent mostrau-
 <lb/>los lo cami de humilitat: perque anant-
@@ -1842,7 +1842,7 @@
 <lb/>to illustrat er imutat: ab negat hon re-
 <lb/>pente quede erat: et exhiberrepete quede nom-
 
-<lb/>Lo admirable pujament de la senyora al temple.</ab><ab>Aui-
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>.</ab><ab>Aui-
 
 <lb/>erat.</ab><ab>Infinides son senyor: e seran
 <lb/>les obres de la vuestra potencia en clemencia.</ab><ab>
@@ -1862,7 +1862,7 @@
 <lb/>te rey deuallant de la linea real de la ca-
 <lb/>sa de <seg type="lexis" subtype="name">Dauid</seg>: pertirans es regir e sen
 <lb/>yorejat.</ab><ab>Vos senyora hauen a redre-
-<lb/>çar aquesta casa del vostre pare Da-
+<lb/>çar aquesta casa del vostre <seg type="lexis" subtype="father">pare</seg> Da-
 <lb/>uid com a hereua verdadera de aquell-
 <lb/>E hoynt la senyora aquesta raho fon-
 <lb/>moguda tota la sanch sua: e alçant los
@@ -1892,23 +1892,25 @@
 <lb/>ritat infallible compliu lo que ha ueu-
 <lb/>promes: mostrauvos als vlls dels ho-
 <lb/>mens en forma de home: per repa-
-<lb/>rar lome.</ab><ab>Car los pares nostres
+<lb/>rar lome.</ab><ab>Car <seg type="lexis" subtype="parents">los pares nostres</seg>
 <lb/>fiant de la vostra paraula ab ferma
 <lb/>fe canten e dien.</ab><ab>Ecce venit deus
-<lb/>et homo de domo <seg type="lexis" subtype="name">Dauid</seg> sedere in thro
+<lb/>et homo de domo <seg type="lexis" subtype="name"><name>Dauid</name></seg> sedere in thro
 <lb/>no.</ab><ab>Volent dir certificant la gent-
 <lb/>que vos veureu: heus mostrareu al
 <lb/>mon deue home verdader: exireu de
-<lb/>la casa de <seg type="lexis" subtype="name">Dauid</seg> quant a la humani-
+<lb/>la casa de <seg type="lexis" subtype="name"><name>Dauid</name></seg> quant a la humani-
 <lb/>tat vostra: e siureu en lotro de miseri-
 <lb/>cordia mostrant la vostra clemencia
-<lb/>y dolçor largamentals homens.</ab><ab><lb/>Aço es senyor lo que yo demante de-
+<lb/>y dolçor largamentals homens.</ab><ab>
+<lb/>Aço es senyor lo que yo demante de-
 <lb/>aço senyor vos suplique de part de to-
 <lb/>ta natura humana.</ab><ab>E muntant la
 <lb/>senyora lo quatorzen scalo acostas a
 <lb/>sa senyoria la sua molt familiar don-
 <lb/>zella dolçor de contemplacio nome-
-<lb/>nada: e besant la ma de sa merçe dix.</ab><ab><lb/>¶ Oma senyora excellent y quant-
+<lb/>nada: e besant la ma de sa merçe dix.</ab><ab>
+<lb/>¶ Oma senyora excellent y quant-
 <lb/>me so adelitada en vostra continua
 <lb/>pregaria e deuota supplicacio.</ab><ab>Fe
 <lb/>tinch que vos vençreu lo inuencible:
@@ -1922,7 +1924,7 @@
 <lb/>biiij
 
 
-<lb/>Lo admirable pujament de la senyora al temple-
+<lb/>Lo admirable pujament de la senyora al <seg type="lexis" subtype="place">temple</seg>-
 
 <lb/>senyor que ls haura concordats.</ab><ab>E la
 <lb/>senyora hoyntaço lo sperit seuse ale-
@@ -1936,7 +1938,8 @@
 <lb/>star e habitar en lo regue vostre ab tan
 <lb/>ta paue concordia glorificant la cle-
 <lb/>mencia vostra que axils ha vnits e a-
-<lb/>iustats per los infinits merits vuestres.</ab><ab><lb/>¶ O senyor que les noranta e nou oue-
+<lb/>iustats per los infinits merits vuestres.</ab><ab>
+<lb/>¶ O senyor que les noranta e nou oue-
 <lb/>lles ja les teniuvos en la alta muntan-
 <lb/>ya del cel: la vna soleta que va exerra
 <lb/>da e fugitiua per la vall de miseria de
@@ -2005,7 +2008,7 @@
 <lb/>sta.</ab><ab>Tibi dixit cor meuz: exquisiuit
 <lb/>te facies mea: faciem tuaz domine re-
 
-<lb/>Lo admirable pujamentde la senyora al temple Yy
+<lb/>Lo admirable pujamentde la senyora al <seg type="lexis" subtype="place">temple</seg> Yy
 
 <lb/>quiram.</ab><ab>Car a vos senyor parla lo
 <lb/>meucor e les mies entramenes dient
@@ -2025,7 +2028,7 @@
 <lb/>manada a la sancta matro
 <lb/>na <seg type="lexis" subtype="authority"><name>Anna</name></seg> prphetissa e del ex-
 <lb/>cellentorde de vida que
-<lb/>tinguestant en lo temple.</ab>
+<lb/>tinguestant en lo <seg type="lexis" subtype="place">temple</seg>.</ab>
 <lb/><ab>Hauent la Senyora aca-
 <lb/>bat de pujar la scala fon
 <lb/>dauantlo gran sacerdot
@@ -2045,11 +2048,11 @@
 <lb/>molta reuerencia e mes la dins hon-
 <lb/>stauen les donzelles qui aturauen en
 
-<lb/>lo temple.</ab><ab>les quals eren regides per-
+<lb/>lo <seg type="lexis" subtype="place">temple</seg>.</ab><ab>les quals eren regides per-
 <lb/>vna sancta matrona qui hauia nom-
 <lb/><seg type="lexis" subtype="authority"><name>Anna</name></seg> <seg type="lexis" subtype="daughter">filla</seg> de phanuel.</ab><ab>la qual enuju-
 <lb/>da joue e desijosa de ben seruir deu clo
-<lb/>gues dins lo temple e aqui staua en com-
+<lb/>gues dins lo <seg type="lexis" subtype="place">temple</seg> e aqui staua en com-
 <lb/>tinues oracions e dejunis seruint no-
 <lb/>stre senyor deu: a la qual era donat do
 <lb/>de prophetia en singular grau.</ab><ab>A aque-
@@ -2067,7 +2070,7 @@
 <lb/>tantla alli dix asa merce.</ab><ab>Ma <seg type="lexis" subtype="daughter">filla</seg> a
 <lb/>quest sera lo retret dels vostres secrets
 <lb/>açistareu en solitur orant continua-
-<lb/>mental pare celestial qui talas ha cre-
+<lb/>mental <seg type="lexis" subtype="father">pare</seg> celestial qui talas ha cre-
 <lb/>ada per delite gloria sua: que con pus-
 <lb/>solastareu de companyia humana:
 <lb/>pus acompanyada sereu de consola-
@@ -2079,7 +2082,7 @@
 <lb/>grimes e singular deuocio.</ab><ab>MPater
 <lb/>meus et mater mea dereliquerunt me
 <lb/>dominus autem assumpsitme.</ab><ab>Uo-
-<lb/>lent dir lo meupare e mare man leixat
+<lb/>lent dir lo meu<seg type="lexis" subtype="father">pare</seg> e <seg type="lexis" subtype="mother">mare</seg> man leixat
 <lb/>e son partits de mi: e lo seyor glorios
 <lb/>ma pres en los seus braços: e ma fer-
 <lb/>muntar a sentir e a saborir los grans
@@ -2089,12 +2092,12 @@
 
 <lb/>Delsposalici de nostra senyora ab <seg type="lexis" subtype="authority"><name>Joseph</name></seg>.
 
-<lb/>de mare: ans cridare e dire en feruor
+<lb/>de <seg type="lexis" subtype="mother">mare</seg>: ans cridare e dire en feruor
 <lb/>de amor al meusenyor.</ab><ab><seg type="lexis" subtype="latin">MPatermes
 <lb/>consolator mes: dulcedo mea: tu mi-
 <lb/>chi cortene: mentem rege: intellectuz
 <lb/>dirige: a nimum suspende.</seg></ab><ab><seg type="rhetoric" subtype="exegesis"> Volent dir
-<lb/>vos senyor sou lo meupare: e lo meu-
+<lb/>vos senyor sou lo meu<seg type="lexis" subtype="father">pare</seg>: e lo meu-
 <lb/>consolador: e la dolçor de la mia ani-
 <lb/>ma.</seg></ab><ab>a vos seuyor offir lo meu corque si
 <lb/>ausols posseyidor de aquell: e regidor
@@ -2117,7 +2120,7 @@
 <lb/>fins <seg type="lexis" subtype="time">a hora de tercia se occupaua en
 <lb/>les oracions vocals</seg>: qui perlo gran
 <lb/>sacerdot eren ordenades adir ales don-
-<lb/>zelles quieren en lo temple.</ab><ab><seg type="lexis" subtype="time">E de ter-
+<lb/>zelles quieren en lo <seg type="lexis" subtype="place">temple</seg>.</ab><ab><seg type="lexis" subtype="time">E de ter-
 <lb/>cia fins a nona feya</seg> f<seg  type="lexis" subtype="body">ahena de mans</seg>
 <lb/><seg type="clerical" subtype="vision">ab les altres donzelles inflamantles
 <lb/>en la amor diuina dient los que fossen
@@ -2150,7 +2153,7 @@
 <lb/>templacio fins a la nit: e apres posa-
 <lb/>uas a dormir.</ab><ab>E en aquesta vida con-
 <lb/>tinua la senyora lo temps que fon en
-<lb/>lo temple.</ab><ab>E aqui inspirada e infla-
+<lb/>lo <seg type="lexis" subtype="place">temple</seg>.</ab><ab>E aqui inspirada e infla-
 <lb/>mada per nostre senvor feu vot de vir
 <lb/>ginitat.</ab><ab>E en aço instruya moltes al
 <lb/>tres donzelles.</ab><ab>Era exemple e regla-
@@ -2176,30 +2179,30 @@
 <lb/>yora sposada ab lo sanct
 <lb/>prohom <seg type="lexis" subtype="authority"><name>Joseph</name></seg>e com
 <lb/>vingue en Razaret hon-
-<lb/>era la sua mare sancta an-
+<lb/>era la sua <seg type="lexis" subtype="mother">mare</seg> sancta an-
 <lb/>na: e de la strema pobrea
 <lb/>sua.</ab><ab>      
 <lb/>¶ Om la excellent senyo-
 <lb/>ra fos peruenguda a la e-
 <lb/>dat que acostumauen trau-
-<lb/>re les vergens del temple-
+<lb/>re les vergens del <seg type="lexis" subtype="place">temple</seg>-
 <lb/>e collocarles en matremoni.</ab><ab>Fon vn
 <lb/>dia amonestada ensemps ab les altres
 <lb/>donzelles per lo gran sacerdot dient
 <lb/>los: que lo temps era vengur que el-
 <lb/>les deuien tornar ales posades de sos
-<lb/>pares per fermar matremoni.</ab><ab>E les
+<lb/><seg type="Lexis" subtype="parents">pares</seg> per fermar matremoni.</ab><ab>E les
 <lb/>altres donzelles foren prestes de ho-
 <lb/>beyr al manament del gran sacerdot
 <lb/>Sola la verge gloriosa ab molta ver-
 <lb/>gonya e maturitat dient que a ella no
-<lb/>era possible exir del temple perdos ra-
-<lb/>hons.</ab><ab>La primera car son pare e-
-<lb/>mare moguts de molta deuocio la ha
+<lb/>era possible exir del <seg type="lexis" subtype="place">temple</seg> perdos ra-
+<lb/>hons.</ab><ab>La primera car son <seg type="lexis" subtype="father">pare</seg> e-
+<lb/><seg type="lexis" subtype="mother">mare</seg> moguts de molta deuocio la ha
 <lb/>uien promesa al seruir de nostre seny-
 <lb/>or deu per totlo temps de la sua vida:
 <lb/>e que perço la hauien offerta de edat
-<lb/>de tres anys al dit temple: e que ella
+<lb/>de tres anys al dit <seg type="lexis" subtype="place">temple</seg>: e que ella
 <lb/>trobantse de edat li playia molt lo que
 <lb/>sos parente hauien promes: e volia per
 <lb/>seuerar en lo seruici e la hor diuina tor-
@@ -2227,7 +2230,7 @@
 <lb/>largues generacions es adorat e co-
 <lb/>negut.</ab><ab>E aço esstat tostemps lohat
 <lb/>e aprouat dauantlos <seg type="lexis" subtype="children">fills</seg> de israel.</ab><ab><lb/>¶ Respos la senyora dient: Ueritat
-<lb/>es reuerent pare lo que vos dieu de ley
+<lb/>es reuerent <seg type="lexis" subtype="father">pare</seg> lo que vos dieu de ley
 <lb/>comuna: empero vostra reuerencia no
 <lb/>ignora que nostre senyor deuno haja
 <lb/>priuilegiat moltes deles leys comu-
@@ -2254,7 +2257,7 @@
 
 <lb/>hauia conseruada en <seg type="lexis" subtype="body">viginitat</seg> e pu-
 <lb/>ritat.</ab><ab>E yo hoynte legir aquestes co-
-<lb/>ses desque so a ci en lo temple inspira-
+<lb/>ses desque so a ci en lo <seg type="lexis" subtype="place">temple</seg> inspira-
 <lb/>da per la clemencia diuina he fetlo dix-
 <lb/>votab proposit ferm dis lo meu cor.</ab><ab><lb/>¶ Ut virum penitus non cognoscan.</ab><ab><lb/>E axi reuerent senyor deman vos de-
 <lb/>gracia de açi auant nom vullau par-
@@ -2282,7 +2285,7 @@
 <lb/>paraules mies: car cosaus vull diride
 <lb/>gran nouitat e molta admiracio.</ab><ab>car-
 <lb/>vostres reuerencies saben que desque
-<lb/>aquest present temple es hedificat: son
+<lb/>aquest present <seg type="lexis" subtype="place">temple</seg> es hedificat: son
 <lb/>aci criades moltes donzelles filles de
 <lb/>Reys e de prophetes e de grans sacer-
 <lb/>dots e demolts altres: e venita edat
@@ -2399,7 +2402,7 @@
 <lb/>stemps sancera.</ab><ab>nApres li dix laltra
 <lb/>donzella fortalea nomenada.</ab><ab>Mas y
 <lb/>ora la magestat de nostre señyor deu-
-<lb/>vol que ixchau del temple: e sian casada:
+<lb/>vol que ixchau del <seg type="lexis" subtype="place">temple</seg>: e sian casada:
 <lb/>heus manifesten al mon viuint en vo-
 <lb/>stra casa: hon passareu molta pobrea
 <lb/>e altres treballs.</ab><ab>E perço nos tramer
@@ -2408,7 +2411,7 @@
 <lb/>çe: esforçantvos a esser constante fer-
 <lb/>ma en totes les virtuts.</ab><ab>car exemplar-
 <lb/>general hauen a esser de tots los sta-
-<lb/>ments.</ab><ab>Açistanten lo temple hauen
+<lb/>ments.</ab><ab>Açistanten lo <seg type="lexis" subtype="place">temple</seg> hauen
 <lb/>donat lum ales donzelles vergens.</ab><ab><lb/>Ara senyora dareu regla de sanctedat
 <lb/>ales maridades e ators los viuits en
 
@@ -2437,7 +2440,7 @@
 <lb/>carament amaua: Respos ab molta
 <lb/>maturitat e vergonya: que puix a no
 <lb/>stre senyor axi playia: e a ella dos: que
-<lb/>tenia per pare e mare: que ella era con
+<lb/>tenia per <seg type="lexis" subtype="father">pare</seg> e <seg type="lexis" subtype="mother">mare</seg>: que ella era con
 <lb/>tenta del dit matremoni.</ab><ab>E lauors ho-
 <lb/>vntaço lo sacerdot sen torna al loel-
 <lb/>hon la gentstaua e dix los que tantost
@@ -2470,8 +2473,8 @@
 <lb/>ses posades.</ab><ab>E <seg type="lexis" subtype="authority"><name>Joseph</name></seg> parti per a nat
 <lb/>zaret per aparellar la pobreta casa su
 <lb/>a.</ab><ab>E porta letres del gran sacerdot per-
-<lb/>a la gloriosa <seg type="lexis" subtype="authority"><name>Anna</name></seg> mare de la senyora:
-<lb/>carlo pare seu <seg type="lexis" subtype="authority"><name>joachim</name></seg> <seg type="lexis" subtype="body">ja era mort.</seg></ab><ab>
+<lb/>a la gloriosa <seg type="lexis" subtype="authority"><name>Anna</name></seg> <seg type="lexis" subtype="mother">mare</seg> de la senyora:
+<lb/>carlo <seg type="lexis" subtype="father">pare</seg> seu <seg type="lexis" subtype="authority"><name>joachim</name></seg> <seg type="lexis" subtype="body">ja era mort.</seg></ab><ab>
 <lb/>Bient enles dites letres com la virtu-
 <lb/>osa <seg type="lexis" subtype="daughter">filla</seg> sua era sposada ab lo porta-
 <lb/>dor de la presentte que de aço no la ha-
@@ -2497,13 +2500,13 @@
 <lb/>les altres donzelles: que cuydauen mo-
 <lb/>rir hauent se aseparar de tan dolça con
 
-<lb/>La supplicacio que nostre pare adan e Eua feren-
+<lb/>La supplicacio que nostre <seg type="lexis" subtype="father">pare</seg> <name>adan</name> e <name>Eua</name> feren-
 <lb/>Svn
 
 <lb/>panyia.</ab><ab>E passats los tres dies la sen-
 <lb/>yora parti molt ben acompanyada
 <lb/>e anant a natzaret descaualca en casa
-<lb/>de la senyora sa mare: la qual hague in-
+<lb/>de la senyora sa <seg type="lexis" subtype="mother">mare</seg>: la qual hague in-
 <lb/>finit goig de veure vna tal <seg type="lexis" subtype="daughter">filla</seg>.</ab><ab>E la
 <lb/>senyora ab molta reuerencia besali la
 <lb/>ma e apres en la <seg type="lexis" subtype="body">boca</seg> e sigueren se vn
@@ -2516,7 +2519,7 @@
 <lb/>na</seg> escoltantles rahons de la sua <seg type="lexis" subtype="daughter">filla</seg>-
 <lb/>continuament ploraua per habundan
 <lb/>cia de goig no fartantse de mirarla.</seg></ab><ab>      
-<lb/>Ecomptali <seg type="lexis" subtype="body">la mort</seg> d<seg type="lexis" subtype="father">el seu pare <seg type="lexis" subytpe="name">Jo-
+<lb/>Ecomptali <seg type="lexis" subtype="body">la mort</seg> d<seg type="lexis" subtype="father">el seu <seg type="lexis" subtype="father">pare</seg> <seg type="lexis" subytpe="name">Jo-
 <lb/>achiz.</seg></seg></ab><ab>e con apres ella hauia pres dos
 <lb/>marits per inspiracio diuina: e que ha-
 <lb/>uia agut dos <seg type="lexis" subtype="children">filles</seg>: ales quals hauia
@@ -2530,7 +2533,7 @@
 <lb/>panyat la senyora prengueren comiat
 <lb/>de sa merçe e de <seg type="lexis" subtype="person"> Anna</seg> e de <seg type="lexis" subtype="authority"><name>Joseph</name></seg>e
 <lb/>ab grans lagrimes e enyorament par-
-<lb/>tiren de aqui e tornaren al temple.</ab><ab>E
+<lb/>tiren de aqui e tornaren al <seg type="lexis" subtype="place">temple</seg>.</ab><ab>E
 <lb/><seg type="lexis" subtype="person"> Anna</seg> acompanya la senyora sa <seg type="lexis" subtype="daughter">filla</seg> a
 <lb/>casa de <seg type="lexis" subtype="authority"><name>Joseph</name></seg>.</ab><ab>la qual staua moltne-
 <lb/>ta: e sols de pobrea arreada: hauiay
@@ -2541,14 +2544,14 @@
 <lb/>gue en nenguna manera la millor can-
 
 <lb/>bra ans elegi perasi la pus chica e mes
-<lb/>pobra com amadora de tota virtut.</ab><ab><lb/>E la senyora sa mare dexantla en ca-
+<lb/>pobra com amadora de tota virtut.</ab><ab><lb/>E la senyora sa <seg type="lexis" subtype="mother">mare</seg> dexantla en ca-
 <lb/>sa torna a la sua: e recordantse de la po-
 <lb/>brea que hauia vist en casa de la sua fi-
 <lb/>lla trames li vn parell de flaçades e al-
 <lb/>gunes ayines de casa: e la senyora hon-
 <lb/>prengue mes per amor de <seg type="lexis" subtype="authority"><name>Joseph</name></seg> que de
 <lb/>si mateixa: e feu moltes gracies a la sen-
-<lb/>yora sa mare.</ab><ab>E axi la senyora e Jo-
+<lb/>yora sa <seg type="lexis" subtype="mother">mare</seg>.</ab><ab>E axi la senyora e Jo-
 <lb/>seph stauen en sa caseta viuint ab mol
 <lb/>ta caritat e puritat guanyant la vida
 <lb/>ab lo treball de ses mans.</ab><ab>E la senyo
@@ -2560,8 +2563,8 @@
 
 Chapter 11
 <div n="14">
-<lb/>Capitol.<ab>com lo pare-
-<lb/>adam e la sua muller eua-
+<lb/>Capitol.<ab>com lo <seg type="lexis" subtype="father">pare</seg>-
+<lb/><name>Adam</name> e la sua muller eua-
 <lb/>ispirats perla diuinal cle-
 <lb/>mencia.</ab><ab>suplicaren aquel
 <lb/>la per lur delliuracio en
@@ -2582,17 +2585,17 @@ Chapter 11
 
 
 
-<lb/>La supplicacio que nostre pare adan: e Eua feren-
+<lb/>La supplicacio que nostre <seg type="lexis" subtype="father">pare</seg> adan: e<seg type="lexis" subtype="authority"><name>Eua</name></seg>feren-
 
 <lb/>gnificat e infinidament regraciat: perque
 <lb/>li ha plagut entendre ab efficacia lo-
 <lb/>bre la pobrea extremae captiuitat do
 <lb/>lorosa del home per ell creat.</ab><ab>E vo
 <lb/>lent lo retornar assi inspira sa clemen-
-<lb/>cia lo pare Adam que regonegues a
+<lb/>cia lo <seg type="lexis" subtype="father">pare</seg> <name>Adam</name> que regonegues a
 <lb/>gudament quants dans hauia encor-
 <lb/>reguts perlo seu peccat.</ab><ab>E sentint se
-<lb/>axi tocat lo venerable pare Adam: re-
+<lb/>axi tocat lo venerable <seg type="lexis" subtype="father">pare</seg> <name>Adam</name>: re-
 <lb/>cordas que ja eren passats cinch mi-
 
 <lb/>de aquell temps ença en tan dura ca-
@@ -2600,9 +2603,9 @@ Chapter 11
 <lb/>lors e miseries: e que tan larch tempi
 <lb/>hauia que duraua la dita pena: a ell
 <lb/>iustament donada: per la desobedien-
-<lb/>cia sua.</ab><ab>Perque Adam e los que ab-
+<lb/>cia sua.</ab><ab>Perque <name>Adam</name> e los que ab-
 <lb/>ell eren tingueren cosell dins los lims
-<lb/>honse trobauen.</ab><ab>E dixlo pare Adan als
+<lb/>honse trobauen.</ab><ab>E dixlo <seg type="lexis" subtype="father">pare</seg> Adan als
 <lb/><seg type="lexis" subtype="children">fills</seg> seus.</ab><ab>Filij mei qued faciem quea
 <lb/>conturbant me cogitationes mee: et
 <lb/>non est hie locus quietus.</ab><ab>Uolent dir
@@ -2613,24 +2616,24 @@ Chapter 11
 <lb/>veig exellat ensemps ab vosaltres en a
 <lb/>quest loch de tenebres: hon noy ha con
 <lb/>solacio nenguna ne repos.</ab><ab>E hoy
-<lb/>da la raho de Adam per los <seg type="lexis" subtype="children">fills</seg> se)
+<lb/>da la raho de <name>Adam</name> per los <seg type="lexis" subtype="children">fills</seg> se)
 <lb/>trauessats de molta dolor per la gran
 <lb/>desauentura e perdua sua con tan poch
 <lb/>los hauia durat lo stat tan preminent-
 <lb/>de innocencia: en que nostre semyor deu-
 <lb/>los hauia creat: no pogueren respon-
-<lb/>dre al pare seu sino que romperen en
-<lb/>gran e doloros plor.</ab><ab>E la mare Eua-
+<lb/>dre al <seg type="lexis" subtype="father">pare</seg> seu sino que romperen en
+<lb/>gran e doloros plor.</ab><ab>E la <seg type="lexis" subtype="mother">mare</seg> Eua-
 <lb/>que veu lo seu marite <seg type="lexis" subtype="children">fills</seg> en tanta do
 
 <lb/>lor e pena atendrien se les entramenes
-<lb/>de aquella com a mare piadosate dix.</ab><ab><lb/>O Adam senyor aquesta dolor mia
+<lb/>de aquella com a <seg type="lexis" subtype="mother">mare</seg> piadosate dix.</ab><ab><lb/>O <name>Adam</name> senyor aquesta dolor mia
 <lb/>es principalment: car yo he lançat a
 <lb/>vos y als <seg type="lexis" subtype="children">fills</seg> meus en tanta dolor e
 <lb/>pena: e en cascu de vosaltres yo so tur-
 <lb/>mentada: si a nostre senyor plahia yo
 <lb/>volria passar la pena partots: puix so
-<lb/>causa del peccat: e vos senyor Adam-
+<lb/>causa del peccat: e vos senyor <name>Adam</name>-
 <lb/>e los <seg type="lexis" subtype="children">fills</seg> meus fosseu deliures de cap-
 <lb/>tiuitat e cobrasseu la heretat vostra:
 <lb/>qui per la errada mia hauen perduda
@@ -2649,7 +2652,7 @@ Chapter 11
 <lb/>abis sanitatez.</seg></ab><ab>Carsi a la senyoria vo-
 <lb/>stra plaura hoyrlo consell men: yo he
 <lb/>ferma fe vos recobrareu salut a tota-
-<lb/>la natura vostra.</ab><ab>E adam sabent que e
+<lb/>la natura vostra.</ab><ab>E <name>Adam</name> sabent que e
 <lb/>rascrit.</ab><ab><seg type="lexis" subtype="latin">Utvnde mors oriebatur:
 <lb/>inde vita resurgerer.</seg></ab><ab>No volgue de se-
 <lb/>stimarlo consell de sa virtuosa muller:
@@ -2657,7 +2660,7 @@ Chapter 11
 <lb/>bo: car tota cosa fare per recobrar la
 <lb/>amistat e gracia del meu creador: lo
 <lb/>qual ma auorrit: e lançat per la de so-
-<lb/>bediencia mia.</ab><ab>E lauors Eua ab mol-
+<lb/>bediencia mia.</ab><ab>E lauors<seg type="lexis" subtype="authority"><name>Eua</name></seg>ab mol-
 <lb/>ta amor dix.</ab><ab>MIgnoras quoniaz be-
 <lb/>nignitas del ad penitentian te addu-
 <lb/>cit.</ab><ab>Volent dir: senyor meuAdaz ig-
@@ -2744,7 +2747,7 @@ Chapter 11
 <lb/>senyor deu tanta singularitat de gra-
 <lb/>cies a nenguna nacio passada present-
 
-<lb/>Comnostre senyor trames <seg type="lexis" subtype="authority"><name>sanct Miquel</name></seg> a adam-
+<lb/>Comnostre senyor trames <seg type="lexis" subtype="authority"><name>sanct Miquel</name></seg> a <name>Adam</name>-
 
 <lb/>ni esdeuenidora com a aquesta sola sen-
 <lb/>yora.</ab><ab>E perço en la natiuitar sua han
@@ -2753,14 +2756,14 @@ Chapter 11
 <lb/>auit in vniuerso mundo.</ab><ab>CCar per-
 <lb/>la presencia sua totlo mon sera ale-
 <lb/>grat.</ab><ab>E dien que la dita senyora se es
-<lb/>criada en lo temple de deu: e es stada
+<lb/>criada en lo <seg type="lexis" subtype="place">temple</seg> de deu: e es stada
 <lb/>tant amada y reuerida per los habi-
-<lb/>tadors del dix temple que tots vna vo-
+<lb/>tadors del dix <seg type="lexis" subtype="place">temple</seg> que tots vna vo-
 <lb/>ce dicentes dien de sa excellent senyo-
 <lb/>ria.</ab><ab>Non est talis mulier super ter-
 <lb/>ram.</ab><ab>Volent dir que tal <seg type="lexis" subtype="woman">dona</seg>coma-
 <lb/>questa james naixque sobre la terra.</ab><ab>
-<lb/>¶ E ja senyor Adam es aquesta den-
+<lb/>¶ E ja senyor <name>Adam</name> es aquesta den-
 <lb/>zella de edat de matremoni: carsegos
 <lb/>lo compte que yo tinchja passa los dot-
 <lb/>ze anys.</ab><ab>Aram par a mi que es hora
@@ -2795,7 +2798,7 @@ Chapter 11
 <lb/>mencia diuina remediara les <seg type="lexis" subtype="body">dolors</seg>
 <lb/>mies per mija de aquesta senyora san-
 <lb/>ctissima <seg type="lexis" subtype="daughter">filla</seg> nostra.</ab><ab>E agenollant-
-<lb/>se lo pare Adam en terra ab grandis-
+<lb/>se lo <seg type="lexis" subtype="father">pare</seg> <name>Adam</name> en terra ab grandis-
 <lb/>sima feruor e deuocio comença a re-
 <lb/>clamar la clemencia diuina dient.</ab><ab><lb/>¶ O rey gentium et desideratus ea-
 <lb/>rum: veni salua hominem quem de li-
@@ -2810,7 +2813,7 @@ Chapter 11
 <lb/>mana: hajau pietat de la errada mia.</ab><ab><lb/>carsens vos ajudador meunon puch
 <lb/>leuar.</ab><ab>A diuua me domine quia in-
 <lb/>te confidit anima mea.</ab><ab>E la vene-
-<lb/>rable mare Eua que la dolor de tots
+<lb/>rable <seg type="lexis" subtype="mother">mare</seg><seg type="lexis" subtype="authority"><name>Eua</name></seg>que la dolor de tots
 <lb/>los seus <seg type="lexis" subtype="children">fills</seg> molt tendramentsentia
 <lb/>ab feruor no recomptable comenca-
 <lb/>a cridar vn crit molt piados dient.</ab><ab><lb/>¶ Domine si vis potes me munda-
@@ -2838,12 +2841,12 @@ Chapter 11
 <lb/>sobre nosaltres: e mostraunos la luz-
 <lb/>resplandent deles infinides misericor-
 <lb/>dies vostres.</ab><ab>E leuantse la amable
-<lb/>mare giras als <seg type="lexis" subtype="children">fills</seg> se dientlos: O
+<lb/><seg type="lexis" subtype="mother">mare</seg> giras als <seg type="lexis" subtype="children">fills</seg> se dientlos: O
 <lb/><seg type="lexis" subtype="children">fills</seg> cridaue no cesseu: no menau vos-
 <lb/><seg type="lexis" subtype="children">fills</seg> mes: perque la piadosa dolor de la
-<lb/>mare vostra pus facilment moga la
+<lb/><seg type="lexis" subtype="mother">mare</seg> vostra pus facilment moga la
 <lb/>clemencia diuina a hauer merçe de vo-
-<lb/>saltres.</ab><ab>Yo trista mare quin deuia
+<lb/>saltres.</ab><ab>Yo trista <seg type="lexis" subtype="mother">mare</seg> quin deuia
 <lb/>guardar pertendrea de amor de tot dan-
 <lb/>e perillvos he lançats en tanta dolor e
 <lb/>miseries: yo quius deuia conseruar la
@@ -2853,11 +2856,11 @@ Chapter 11
 <lb/>aquell qui ajudarvos pot: Lo qual ha-
 <lb/>dit.</ab><ab>Sine me nichil potestis face-
 <lb/>re.</ab><ab>E los atribulats <seg type="lexis" subtype="children">fills</seg> hoyda la a-
-<lb/>monestacio de la senyora maresua co-
+<lb/>monestacio de la senyora <seg type="lexis" subtype="mother">mare</seg>sua co-
 <lb/>mençaren a reclamar e cridar la mise-
 <lb/>ricordia diuina dient.</ab><ab>O clement e pi-
 <lb/>ados seyor veus açi los exellats <seg type="lexis" subtype="children">fills</seg>
-<lb/>de Eua que per manament de vuestra ma-
+<lb/>de<seg type="lexis" subtype="authority"><name>Eua</name></seg>que per manament de vuestra ma-
 <lb/>gestat son stats bandejats del regue vo-
 <lb/>stre per lo peccat dels primers pa-
 <lb/>rents: quantes penes e angusties ha-
@@ -2897,7 +2900,7 @@ Chapter 11
 <lb/>fectio perque prestament pugam ve-
 <lb/>nir a vos y atenver la gracia vostra
 <lb/>tan desijada.</ab><ab>E aquests miserab-
-<lb/>les <seg type="lexis" subtype="children">fills</seg> de Adam vehentse en tanta
+<lb/>les <seg type="lexis" subtype="children">fills</seg> de <name>Adam</name> vehentse en tanta
 <lb/>necessitat començaren a reclamar en
 <lb/>ajuda sua los ciutadans de parays
 <lb/>quison los sancts angels dient a ells
@@ -2907,7 +2910,7 @@ Chapter 11
 <lb/>li placia hauer pietat de nosaltres: E
 
 
-<lb/>Comnostre seuyor trames sanct Mique l a adam-
+<lb/>Comnostre seuyor trames sanct Mique l a <name>Adam</name>-
 
 <lb/>que done fi al exili nostre: e pugam-
 <lb/>peruenir al loch hon vosaltres son:
@@ -2929,7 +2932,7 @@ Chapter 11
 <lb/>cia infinidas Dimitte eos quia cla
 <lb/>mantpostnos.</ab><ab>Volent dir sia de vo-
 <lb/>stra diuina clemencia atorgar a aquests
-<lb/>miserables <seg type="lexis" subtype="children">fills</seg> de Adam la peticio
+<lb/>miserables <seg type="lexis" subtype="children">fills</seg> de <name>Adam</name> la peticio
 <lb/>sua: e que ixquen de aquella dura cap-
 <lb/>tiuitat: e vinguen a lo har la magestat
 <lb/>vostra: e a possehir estes cadires qui-
@@ -2951,7 +2954,7 @@ Chapter 12
 <lb/>Senyor hoynt los crits
 <lb/>dels pares tramete sanct-
 
-<lb/> Miquel en la terra: lo qual
+<lb/> <seg type="lexis" subtype="authority">Miquel</seg> en la terra: lo qual
 <lb/>deuallant als lims denun-
 <lb/>cia a Adaz les grans mi-
 <lb/>series dels habitante en
@@ -2963,14 +2966,14 @@ Chapter 12
 <lb/>na cridar lo seu lochti-
 <lb/>e
 <lb/>nent general lo princep-
-<lb/>sent miquel.</ab><ab>Lo qual ve-
+<lb/>sent <seg type="lexis" subtype="authority">Miquel</seg>.</ab><ab>Lo qual ve-
 <lb/>nint fica lo genoll dauant sa clemen-
 <lb/>cia stant prest de obeyr lo que manat
 <lb/>li seria.</ab><ab>E lo senyor li dix.</ab><ab>¶Clamor
 <lb/>filiorum a de venitad me: vidioz affli-
 <lb/>ctionem eorum: sed veni mittazte ad-
-<lb/>cos.</ab><ab>Volentdir: O miquel la dolo-
-<lb/>rosa clamor dels <seg type="lexis" subtype="children">fills</seg> de adam es ven-
+<lb/>cos.</ab><ab>Volentdir: O <seg type="lexis" subtype="authority">Miquel</seg> la dolo-
+<lb/>rosa clamor dels <seg type="lexis" subtype="children">fills</seg> de <name>Adam</name> es ven-
 <lb/>guda en la presencia mia: he vist la gran
 <lb/>afflictio que passen: so mogut hauer pi-
 <lb/>etat de ells.</ab><ab>perque he delliberat de tra-
@@ -2982,21 +2985,21 @@ Chapter 12
 <lb/>natli era: car era molt affectat a natu-
 <lb/>ra humana: e desijaua la reparacio de
 <lb/>aquella.</ab><ab>E deuallant lo glorios prin-
-<lb/>cep miquel mira e regonegue tota la
+<lb/>cep <seg type="lexis" subtype="authority">Miquel</seg> mira e regonegue tota la
 <lb/>terra.</ab><ab>E apres vingue als lims hone-
-<lb/>ra lo antich e venerable pare.</ab><ab>E dix a
+<lb/>ra lo antich e venerable <seg type="lexis" subtype="father">pare</seg>.</ab><ab>E dix a
 <lb/>ell: O Adan.</ab><ab>Gaudiun tibi sempersit
-<lb/>lo qual hoynt lo princep sant Miquel
+<lb/>lo qual hoynt lo princep sant <seg type="lexis" subtype="authority">Miquel</seg>
 <lb/>lança vn gran sospir e dix.</ab><ab>CO dñe-
 
 <lb/>La legacio tramesa pernostrepareadan al seyor.</ab><ab>S
 
 <lb/>bris sedeo: et lumen celi non video.</ab><ab>
-<lb/>¶ Volent dir: o senyor Miquel y
+<lb/>¶ Volent dir: o senyor <seg type="lexis" subtype="authority">Miquel</seg> y
 <lb/>quin goigpotesser a mi: ne quina ale-
 <lb/>gria pora pendre loch en mi: car ente-
 <lb/>nebres stiche la lum del cel no veig.</ab><ab>
-<lb/>¶ E respos sent miquel: O Adam-
+<lb/>¶ E respos sent <seg type="lexis" subtype="authority">Miquel</seg>: O <name>Adam</name>-
 <lb/>no sia desmayar.</ab><ab>Constantes sncto
 <lb/>te: videbitis auxilium do mini super
 <lb/>vos.</ab><ab>CCar la magestat diuina me-
@@ -3015,7 +3018,7 @@ Chapter 12
 <lb/>des a mal.</ab><ab>Nenguno ama son pro-
 <lb/>hisme de verdader cor.</ab><ab>Les coses ma-
 <lb/>les e noibles desigen: e les bones auo
-<lb/>rreixen.</ab><ab>No es marauella Adam si
+<lb/>rreixen.</ab><ab>No es marauella <name>Adam</name> si
 <lb/>es doloros veure vostres <seg type="lexis" subtype="children">fills</seg> en tan
 <lb/>ta miseria: car dichvos que en la ter-
 <lb/>ra noy ha loch que no sia ple de infi-
@@ -3029,12 +3032,12 @@ Chapter 12
 <lb/>falsis fratribus: in labore et erumpna:
 <lb/>in vigiliijs multis: in fame er siti: in ie-
 <lb/>iunijs multis: in frigore er nuditate.
-<lb/>¶ E hoyntaço Adam dix: O prin-
-<lb/>cep miquel tots aquests dans ha en-
+<lb/>¶ E hoyntaço <name>Adam</name> dix: O prin-
+<lb/>cep <seg type="lexis" subtype="authority">Miquel</seg> tots aquests dans ha en-
 <lb/>corregutlo mon per la desobediencia
 <lb/>mia: placias espondrem al spiritual-
 <lb/>com sentenen aquests tanta perills ne
-<lb/>que signifiquen.</ab><ab>E sent miquel res-
+<lb/>que signifiquen.</ab><ab>E sent <seg type="lexis" subtype="authority">Miquel</seg> res-
 <lb/>pos.</ab><ab>Mdaz so molt content de dir vos
 <lb/>lo que demanau.</ab><ab>En los parills dels
 <lb/>flums son aquells qui en la present vi-
@@ -3147,19 +3150,19 @@ Chapter 12
 <lb/>lor de vera caritat: ni deuocio sance-
 <lb/>ra en ells nuncha es trobada.</ab><ab>E a
 <lb/>dan hoyda la exposicio de aquests pe-
-<lb/>rills dix: O Miquel glorios e que
+<lb/>rills dix: O <seg type="lexis" subtype="authority">Miquel</seg> glorios e que
 <lb/>faran los meus <seg type="lexis" subtype="children">fills</seg> posats en tantes
 <lb/>maneres de parills si per lo men semyor no
 <lb/>son aiudati.</ab><ab>aço es lo que yo cride: aço es-
-<lb/>lo que reclame: o princep miquel siau vos
-<lb/>La legacio tramesa parnostrepare adan al seyor.</ab><ab>Sen
+<lb/>lo que reclame: o princep <seg type="lexis" subtype="authority">Miquel</seg> siau vos
+<lb/>La legacio tramesa parnostre<seg type="lexis" subtype="father">pare</seg> adan al seyor.</ab><ab>Sen
 
 <lb/>aduocat meu recaptaume misericor
 <lb/>dia ab lo semyor e creador meu.</ab><ab>Conse-
 <lb/>llaume que fare perplaccar la pietat diui-
 <lb/>na: puix son trames persa clemencia
-<lb/>a veure la miseria mia.</ab><ab>E sent Miquel
-<lb/>mirantadam e hoynt les sues dolo-
+<lb/>a veure la miseria mia.</ab><ab>E sent <seg type="lexis" subtype="authority">Miquel</seg>
+<lb/>mirant<name>Adam</name> e hoynt les sues dolo-
 <lb/>roses rahons fon mogunta molta con
 <lb/>passio e dixli.</ab><ab>O patriarcha venerab
 <lb/>le sian cert que yo fare per vos totlo
@@ -3178,7 +3181,7 @@ Chapter 12
 <lb/>pietat sua.</ab><ab>E sa magestat diu¶ Qui-
 <lb/>se humiliatexaltabie.</ab><ab>Fent vos molt-
 <lb/>cert que sius humilian sereu exalçat-
-<lb/>¶ E perço adam entrau dins la pro-
+<lb/>¶ E perço <name>Adam</name> entrau dins la pro-
 <lb/>funditat de la vostra miseria e regone
 <lb/>xen de hon son caygut: Car de la altea
 <lb/>de gracia son deuallat a la captiuitar
@@ -3193,7 +3196,7 @@ Chapter 12
 <lb/>ciationis habundantiam multiplica
 <lb/>tis intercessoribus largiaris.</ab><ab>E re-
 
-<lb/>spos Adam e dix: O Miquel
+<lb/>spos <name>Adam</name> e dix: O <seg type="lexis" subtype="authority">Miquel</seg>
 <lb/>que puch yo offerir al creador meu:
 <lb/>car perdent la sua gracia fuy despul-
 <lb/>lat de torbe.</ab><ab>No trobe en mi sino pe-
@@ -3210,12 +3213,12 @@ Chapter 12
 <lb/>mia lo temps de la edat sua son tretze
 <lb/>auys pochmes.</ab><ab>Puella decora ni-
 <lb/>mis virgo pulcherrima er incognita
-<lb/>viro.</ab><ab>Si aquestaus par miquel glori-
+<lb/>viro.</ab><ab>Si aquestaus par <seg type="lexis" subtype="authority">Miquel</seg> glori-
 <lb/>os que per mi degaesser offerta dauant
 <lb/>la magestat diuina com a <seg type="lexis" subtype="daughter">filla</seg> mia e-
 <lb/>de la propria natura e carn mia.</ab><ab>O lo
-<lb/>princep miquel alegrantse molt dix:
-<lb/>O adam de quim parlau de la senyo
+<lb/>princep <seg type="lexis" subtype="authority">Miquel</seg> alegrantse molt dix:
+<lb/>O <name>Adam</name> de quim parlau de la senyo
 <lb/>ra <seg type="lexis" subtype="name">Maria</seg> de natzaret: si sabien quant-
 <lb/>li so seruidor: no cregau que la excellen-
 <lb/>cia e virtuts de aquesta senyora puga es-
@@ -3235,11 +3238,11 @@ Chapter 12
 <lb/>e iin
 
 
-<lb/>La legacio tramesa per nostre pareadan al seuyor.
+<lb/>La legacio tramesa per nostre <seg type="lexis" subtype="father">pare</seg>adan al seuyor.
 
 <lb/>Congoxos e <seg type="lexis" subtype="body">dolors</seg> poden passar j
 <lb/>algun temps: empero a la final los le-
-<lb/>ra feta misericordia perintercessio sua.</ab><ab><lb/>¶ E perçom vos adam hauen molt-
+<lb/>ra feta misericordia perintercessio sua.</ab><ab><lb/>¶ E perçom vos <name>Adam</name> hauen molt-
 <lb/>bon acortde presentar aquesta senyo
 <lb/>ra <seg type="lexis" subtype="daughter">filla</seg> vostra a la magestat diuina: e
 <lb/>fer scut de ella acobrir e repararles
@@ -3253,7 +3256,7 @@ Chapter 12
 <lb/>ra.</ab><ab>¶Subter eam habitabant ani-
 <lb/>malia er bestie et in ramis cius conuer-
 <lb/>sabantur volucres celi: et ex ea vesce
-<lb/>batur omnis caro.</ab><ab>O adam e tan gran
+<lb/>batur omnis caro.</ab><ab>O <name>Adam</name> e tan gran
 <lb/>e tan bell pujador teniu vos per aquest ar-
 <lb/>bre que figura la senyora <seg type="lexis" subtype="daughter">filla</seg> vostra-
 <lb/>Car anant per les rames sues peruen-
@@ -3262,7 +3265,7 @@ Chapter 12
 <lb/><seg type="lexis" subtype="creature">los animals</seg>: ço es los peccadors dels
 <lb/>quals diu <seg type="lexis" subtype="name">Dauid</seg>.</ab><ab><seg type="lexis" subtype="latin">¶Comparatus en
 <lb/>iumentis insipientibus: et similis fac-
-<lb/>tus estillis.</seg></ab><ab>O adam y que faria lo
+<lb/>tus estillis.</seg></ab><ab>O <name>Adam</name> y que faria lo
 <lb/>miserable peccador qual terra lo sosten-
 <lb/>dria si la ombra desta senyora nol co-
 <lb/>bris.</ab><ab>Sian cert tots los elements lo
@@ -3292,7 +3295,7 @@ Chapter 12
 <lb/>per lo vniuersal mon.</ab><ab>E del fruyt de
 <lb/>ella menjara tota la generacio huma-
 <lb/>na.</ab><ab>car per lo mija de sa senyoria vos
-<lb/>Adam e la generacio vostra atenye-
+<lb/><name>Adam</name> e la generacio vostra atenye-
 <lb/>reu aquell fruyt tan desijat de la gracia
 <lb/>e amor diuina: e por en dir glorificant-
 <lb/>aquesta senyora.</ab><ab>Benedicta filia tu a-
@@ -3309,23 +3312,23 @@ Chapter 12
 Chapter 13
 <div n="16">
 <lb/>Capitol.uj.<ab>com lo ve-
-<lb/>nerable pare Adam tra-
+<lb/>nerable <seg type="lexis" subtype="father">pare</seg> <name>Adam</name> tra-
 <lb/>mes de partsua mia e pi-
 <lb/>etat perraonar la sua cau-
 <lb/>sa ensemps ab lo princep
-<lb/>Miquel.</ab><ab>
-<lb/>Respos Adam O miquel
+<lb/><seg type="lexis" subtype="authority">Miquel</seg>.</ab><ab>
+<lb/>Respos <name>Adam</name> O <seg type="lexis" subtype="authority">Miquel</seg>
 <lb/>senyor y aqui puch yo tra-
 <lb/>metre dauant tanta mage-
 
-<lb/>La legacio tramesa pernostre pare adan al seyor.</ab><ab>Een
+<lb/>La legacio tramesa pernostre <seg type="lexis" subtype="father">pare</seg> adan al seyor.</ab><ab>Een
 
 <lb/>stat: car so cert que offenent lo meusen-
 <lb/>yor e creador he offeses totes les crea-
 <lb/>tures fues e les he constituydes en e-
 <lb/>migues mies: e so cert que totes dema-
 <lb/>nen venjança de mi e punicio del meu-
-<lb/>peccat.</ab><ab>Ueritat es Miquel que en
+<lb/>peccat.</ab><ab>Ueritat es <seg type="lexis" subtype="authority">Miquel</seg> que en
 <lb/>totes les <seg type="lexis" subtype="body">dolors</seg> e perdues mies dos
 <lb/>donzelles man molt aconsolat e aiu-
 <lb/>dat e nunca son de mi partides en to-
@@ -3335,7 +3338,7 @@ Chapter 13
 <lb/>stes senyores volran anar a rahonar
 <lb/>la causa mia molt sere yo contet: car-
 <lb/>fie molt delles e torme pose en los ser
-<lb/>braços.</ab><ab>E dixsent Miquel: Madaz
+<lb/>braços.</ab><ab>E dixsent <seg type="lexis" subtype="authority">Miquel</seg>: Madaz
 <lb/>y quison les donzelles dequi tanta fe-
 <lb/>teniu.</ab><ab>E respos adaz la una es mi
 <lb/>sericordia e laltra pietat: e ab aquestes
@@ -3375,7 +3378,7 @@ Chapter 13
 <lb/>gues mies deman vos de merçe vullau-
 <lb/>empendre aquesta empresa.</ab><ab>E mise-
 <lb/>ricordia ab cara molt affable abraça
-<lb/>Adam: e dixli.</ab><ab>O patriarcha no te-
+<lb/><name>Adam</name>: e dixli.</ab><ab>O patriarcha no te-
 <lb/>mau que yo ni la compañyona mia
 <lb/>no podem fallir als atribulats.</ab><ab>E con
 <lb/>vos siau posat en tanta dolor e angu-
@@ -3389,24 +3392,24 @@ Chapter 13
 <lb/>puga oblidarlo fill seu: e que no vse de
 <lb/>molta misericordia ab aquell qui del
 <lb/>seu ventre es exit: e si ella reuessant sa-
-<lb/>natura se oblida la amor de mare ja-
-<lb/>yo nom oblidare de vos Adam: que
+<lb/>natura se oblida la amor de <seg type="lexis" subtype="mother">mare</seg> ja-
+<lb/>yo nom oblidare de vos <name>Adam</name>: que
 <lb/>pus carme son que fill: e hon volreu-
 <lb/>que vaja ire: car aparellada so de pu-
 <lb/>jar al cel: e deuallar en la terra infini-
 <lb/>des vegades per amor vostra.</ab><ab>E adan-
 <lb/>molt alegre e content de la resposta de
 <lb/>misericordia feu li infinides gracies.</ab><ab><lb/>E apres leuas pietar e prengue lo dix-
-<lb/>Adam perlama: e dix.</ab><ab>Noli time
+<lb/><name>Adam</name> perlama: e dix.</ab><ab>Noli time
 <lb/>re: confortare er esto robusto ego aunt
 <lb/>protector tuus sum.</ab><ab>Volent dir no
 
 
-<lb/>La legacio tramese pernostrepare a dan al senyor.
+<lb/>La legacio tramese pern ostre <seg type="lexis" subtype="father">pare</seg> adan al senyor.
 <lb/>teman adaz sian cofortat e molt esfor
 <lb/>çat: que yous do la fe de esser vos pro-
 <lb/>tectora e aiudadora tostempo quem-
-<lb/>hajan mester.</ab><ab>E adam regraciant a
+<lb/>hajan mester.</ab><ab>E <name>Adam</name> regraciant a
 <lb/>les donzelles animoses a cascuna per-
 <lb/>si e abduy ensemps la valença que os
 <lb/>ferta li hauien suplicant les desempa-
@@ -3422,7 +3425,7 @@ Chapter 13
 <lb/>portaua la roba sua de brocat vert per-
 <lb/>mostrar la gran sperança ab que ana
 <lb/>ua de obtenir la sua demanda.</ab><ab>E ve-
-<lb/>hentles sent Miquel saluda les ab mol
+<lb/>hentles sent <seg type="lexis" subtype="authority">Miquel</seg> saluda les ab mol
 <lb/>ta alegria: e elles feren li gran reueren
 <lb/>cia dient volien anar en compauyia
 <lb/>sua per treballar que fos feta pauen-
@@ -3436,7 +3439,7 @@ Chapter 13
 Chapter 14
 <div n="17">
 <lb/>Capitol.A.<ab>com sent
-<lb/> Miquel.</ab><ab>e misericordia
+<lb/> <seg type="lexis" subtype="authority">Miquel</seg>.</ab><ab>e misericordia
 <lb/>e pietat despedits de adan-
 <lb/>vingueren dauant la ma-
 <lb/>gestat diuinale oferiren
@@ -3448,10 +3451,10 @@ Chapter 14
 <lb/>ves perjusticia.</ab><ab>
 <lb/>s
 <lb/>Despedintse lo princep
-<lb/>sent miquel e les donze-
-<lb/>lles de Adam per fer son
+<lb/>sent <seg type="lexis" subtype="authority">Miquel</seg> e les donze-
+<lb/>lles de <name>Adam</name> per fer son
 <lb/>viatge.</ab><ab>lo dix glorios
-<lb/>Miquel prengue misericordia per lo
+<lb/><seg type="lexis" subtype="authority">Miquel</seg> prengue misericordia per lo
 <lb/>braç: e hu dels angels que ab ell eren
 <lb/>prengue laltra donzella: e axi partiren-
 <lb/>E misericordia girantse a Adan e als
@@ -3483,7 +3486,7 @@ Chapter 14
 <lb/>miliats e aterrats som per tota la vni-
 <lb/>uersal terra perlos peccats nostres.
 
-<lb/>La legacio tramesa pernostre pare a dan al semyor.</ab><ab>Sem-
+<lb/>La legacio tramesa pernostre <seg type="lexis" subtype="father">pare</seg> a dan al semyor.</ab><ab>Sem-
 
 <lb/>¶ E ara senvor volem seguir a vos
 <lb/>de tot lo nostre cor: e tembre e hobe-
@@ -3496,10 +3499,10 @@ Chapter 14
 <lb/>sericordies.</ab><ab>E axi adaz e los <seg type="lexis" subtype="children">fills</seg>
 <lb/>seus continuant les sues clamors e pre-
 <lb/>garies ab molta feruor e deuocio sent
-<lb/>Miquel e les donzelles foren aple-
+<lb/><seg type="lexis" subtype="authority">Miquel</seg> e les donzelles foren aple-
 <lb/>gats molt prestamental cel.</ab><ab>E venit-
 <lb/>dauant la magestat diuina feta ado-
-<lb/>racio: dix sent miquel asa clemencia.</ab><ab>O
+<lb/>racio: dix sent <seg type="lexis" subtype="authority">Miquel</seg> asa clemencia.</ab><ab>O
 <lb/>omnipotent deue senyor yo so deual
 <lb/>lat en aquella vall de miseria segons
 <lb/>vostra magestat mauia manat per vi-
@@ -3524,7 +3527,7 @@ Chapter 14
 <lb/>les sues esteses perterra: la olor e sua
 <lb/>uetate dolçor sua puja fis açi a la ma-
 <lb/>gestat vostra.</ab><ab>Aquesta senyor vos
-<lb/>presenta e offir Adam com a <seg type="lexis" subtype="daughter">filla</seg> na-
+<lb/>presenta e offir <name>Adam</name> com a <seg type="lexis" subtype="daughter">filla</seg> na-
 
 <lb/>tural sua: e nada entre les spines del
 <lb/>seu ortsens lesio nenguna del original
@@ -3539,7 +3542,7 @@ Chapter 14
 <lb/>e a mi: e resplandexca tostenps la hefi-
 <lb/>cacia sua sobre la generacio nostra.</ab><ab>
 <lb/>¶ E nostre senyor deu responenta sent
-<lb/>Miquel diuli: O visrey vos sianu molt-
+<lb/><seg type="lexis" subtype="authority">Miquel</seg> diuli: O visrey vos sianu molt-
 <lb/>be vengut: lo present quem portan de
 <lb/>part de natura humana es a mi tan ac-
 <lb/>cepte que no es cosa nenguna creada
@@ -3587,13 +3590,13 @@ Chapter 14
 <lb/>clemencia vostra sola te a delliurar lo
 <lb/>home: car totes les altres coses li son
 <lb/>contraries.</ab><ab>E respos lo senyor dient
-<lb/>O princep Miquel no sabeu les obres
+<lb/>O princep <seg type="lexis" subtype="authority">Miquel</seg> no sabeu les obres
 <lb/>mies quant son justificades: e que ju-
 <lb/>sticia va dauant la mia cara axicom-
 <lb/>a mestre sala: segos testifica <seg type="lexis" subtype="name">Dauid</seg>.</ab><ab><lb/>¶ Justicia ante eum ambulabit.</ab><ab>E
 <lb/>que yo vull que totes les coses se fa-
 <lb/>çen segons orde de justicia.</ab><ab>E re-
-<lb/>sposlent miquel e dix.</ab><ab>O senyor que
+<lb/>sposlent <seg type="lexis" subtype="authority">Miquel</seg> e dix.</ab><ab>O senyor que
 <lb/>molt rahonable cosa es les obres de
 <lb/>vostra magestat sien eguals: car infi-
 <lb/>nit es lo vostre poder e saber: e podeu-
@@ -3654,11 +3657,11 @@ Chapter 15
 <lb/>La disputa entre veritate pietat.
 
 <lb/>tar e a clarir aquesta fahena.</ab><ab>Lo glo-
-<lb/>rios miquel per manament de nostre
+<lb/>rios <seg type="lexis" subtype="authority">Miquel</seg> per manament de nostre
 <lb/>senyor deu feu portar dos cadires en
 <lb/>quisiguessen les dos principals parts
 <lb/>de qui era lo interes.</ab><ab>E lo dir-
-<lb/>sanct Miquel sabent la voluntat de 
+<lb/>sanct <seg type="lexis" subtype="authority">Miquel</seg> sabent la voluntat de 
 <lb/>la magestat diuina com volia fossen-
 <lb/>graduades: colloca misericordia a-
 <lb/>la part dreta: e justicia a la esquerra:
@@ -3685,8 +3688,8 @@ Chapter 15
 <lb/>stre senyor deuesser son creador e fac-
 <lb/>tor dientli.</ab><ab>¶De ligno que de estin me
 <lb/>dio paradisi: ne comedas: i quacunqz
-<lb/>en im die comederis ex eo: morte mo-
-<lb/>rieris.</ab><ab>Uolent dir: Guardau Adan-
+<lb/>en im die comederis ex eo: <seg type="lexis" subtype="body">morte mo-
+<lb/>rieris.</seg></ab><ab>Uolent dir: Guardau Adan-
 <lb/>nous desconegau: car ab totyous ha-
 <lb/>ja fer senyor de totes les coses per mi
 <lb/>creades yo vull esser senyor vuestre e dar
@@ -3696,11 +3699,11 @@ Chapter 15
 
 <lb/>que en aquella jornada que lo mana-
 <lb/>ment meu trespassaren de mortspiri-
-<lb/>tual morreu: e sereu obligat a la mort-
-<lb/>corporal: de la qual acampar no poreu:
+<lb/>tual morreu: e sereu obligat a <seg type="lexis" subtype="body">la mort-
+<lb/>corporal</seg>: de la qual acampar no poreu:
 <lb/>car perçous dich la pena que encorre
 <lb/>reu: perque siau pus cautelos aguar-
-<lb/>daruos de la cayguda: de mort vos he
+<lb/>daruos de la cayguda: <seg type="lexis" subtype="body">de mort</seg>seg> vos he
 <lb/>menaçat que es la major punicio que en
 <lb/>la natura vostra se pot donar: perque co-
 <lb/>negau quant seria offensiu de la mage-
@@ -3712,18 +3715,18 @@ Chapter 15
 <lb/>manament del creador seu: e oblida
 <lb/>tots los benificis que de sa magestat re
 <lb/>buts hauia: E dellibera menjar lo
-<lb/>fruyt que sa muller li offeria: ab totno
+<lb/>fruyt que sa <person>muller</person> li offeria: ab totno
 <lb/>ignoras que era aquell mateix del qual
 <lb/>nostre senyor de u manaua fes singu-
 <lb/>lar abstinencia.</ab><ab>E que lo me sia axi-
 <lb/>caygut voluntariament en lo que tant
 <lb/>deguera esquiuarme parli pot esser
 <lb/>dit per quisuulla quil veja congoxar.</ab><ab>      
-<lb/>¶ Gratis venundati estis.</ab><ab>Volent-
-<lb/>dir: O adam de queus congoxau vos
+<lb/>¶ <seg tyep="lexis" subtype="Latin">Gratis venundati estis.</seg></ab><ab><seg type="rehtoric" subtype="exegesis">Volent-
+<lb/>dir: O <name>adam</name> de queus congoxau vos
 <lb/>ni los <seg type="lexis" subtype="children">fills</seg> vostres puir de bon grate
 <lb/>voluntariament vos sou venuis e do
-<lb/>nats als enemichs vostres: ab pacien-
+<lb/>nats als enemichs vostres</seg>: ab pacien-
 <lb/>cia deueu pendre tots los dans que se-
 <lb/>guits vos son: puix vosaltres matei-
 <lb/>xos los vos hauen procurats.</ab><ab>E ju-
@@ -3749,7 +3752,7 @@ Chapter 15
 <lb/>teix lo pot reduir a vida per sola cle-
 <lb/>mencia sua: E aquell quies deuallat
 <lb/>fins ales portes de infernço es en los
-<lb/>lims hon aras troba Adam: de aqui
+<lb/>lims hon aras troba <name>Adam</name>: de aqui
 <lb/>pot esser relleuat per la diuinal poten
 <lb/>cia: e pujat en aquell loch hones tor-
 <lb/>repos.</ab><ab>CCar nostre seyor deuno es
@@ -3769,11 +3772,11 @@ Chapter 15
 <lb/>que li ha donat gran atreuiment de go-
 <lb/>sar demanar misericordia sens cessar
 <lb/>¶ E perco dix Barut en persona de
-<lb/>Adam.</ab><ab>Ego en imsperaui in eter-
+<lb/><name>Adam</name>.</ab><ab>Ego en imsperaui in eter-
 <lb/>num saluatorem nostrum: quia veni-
 <lb/>et michi gaudium a sancto supermi-
 <lb/>sericordiam que veniet nobis cito.</ab><ab>      
-<lb/>Volent dir que Adam els <seg type="lexis" subtype="children">fills</seg> seus
+<lb/>Volent dir que <name>Adam</name> els <seg type="lexis" subtype="children">fills</seg> seus
 <lb/>no hauien raho nenguna de perdre la
 <lb/>sperança en nostre senyor deu: ans con
 <lb/>fiar ab gran fe deles promissions su-
@@ -3787,7 +3790,7 @@ Chapter 15
 <lb/>clemencia se vulla inclinar a ferli mise-
 <lb/>ricordia.</ab><ab>E de mi siau certa veritat sen-
 <lb/>yora que nunquan cansare de aduocar
-<lb/>e ajudar a Adame als seus <seg type="lexis" subtype="children">fills</seg> fins
+<lb/>e ajudar a <name>Adam</name>e als seus <seg type="lexis" subtype="children">fills</seg> fins
 <lb/>los veja delliures deles tantes penes qu
 <lb/>sofiren.</ab><ab>Car a mim par que justicia deu-
 <lb/>esser contenta deles <seg type="lexis" subtype="body">dolors</seg> e tribula-
@@ -3887,7 +3890,7 @@ Chapter 15
 <lb/>lo seu deute: ço que es impossible se-
 <lb/>gons vos matexa sabeu.</ab><ab>Car tota
 <lb/>natura no basta a satisfer la minima
-<lb/>part de la culpa de Adam: qui fon tan
+<lb/>part de la culpa de <name>Adam</name>: qui fon tan
 <lb/>temerari que guosa offendre la mage-
 <lb/>stat infinida de nostre senyor deu: con
 <lb/>dampnant si mateix e tota la genera
@@ -4037,7 +4040,7 @@ Chapter 15
 <lb/>esperiencia les passions humanes: E en
 <lb/>quant deu pora reparar aquelles ab lo ex
 <lb/>cellent saber diuinal.</ab><ab>E segueixse en
-<lb/>la dita prophecia que sera pare del segle es-
+<lb/>la dita prophecia que sera <seg type="lexis" subtype="father">pare</seg> del segle es-
 <lb/>deuenidor lo segle que huy es: es totple
 <lb/>de tenebres e foscura de peccat: lo es-
 <lb/>deuenidor crech yo sera ple de gracia e de
@@ -4213,14 +4216,14 @@ Chapter 17
 <lb/>parla lo fill de deuque es sa-
 <lb/>uiesa infinida e dix al seu-
 <lb/>pares <seg type="lexis" subtype="latin">Pater mi propterme orta en hec-
-<lb/>tempestas: mitte mel mare: er cessabit-
+<lb/>tempestas: mitte mel <seg type="lexis" subtype="mother">mare</seg>: er cessabit-
 <lb/>tempestas.</seg></ab><ab><seg type="clerical" subtype="exegesis">Volent dir: o clementissim-
-<lb/>pare meutots aquests crit e grans tem-
+<lb/><seg type="lexis" subtype="father">pare</seg> meutots aquests crit e grans tem-
 <lb/>pestes de natura humana permi se son le
 <lb/>uats a mi criden e a mi demanen: <seg type="rhetoric" subtype="metaphor">sia de
 <lb/>vostra merçe lançar a mi en la mar de la
 <lb/>miseria humana: e cessara tota la tempe-
-<lb/>sta e brogit de aquella.</seg></seg></ab><ab>E lo pare molt-
+<lb/>sta e brogit de aquella.</seg></seg></ab><ab>E lo <seg type="lexis" subtype="father">pare</seg> molt-
 <lb/>content qual fill seu prengues aquesta lega-
 <lb/>cio pu-
 
@@ -4309,7 +4312,7 @@ Chapter 17
 <lb/>dient.</ab><ab>MPropter nimiam caritatem-
 <lb/>suam qua dilexit vos deus filiun suuz
 <lb/>misit in similitudinem carnis peccati-
-<lb/>Volentdir: O <seg type="lexis" subtype="children">fills</seg> de adam no siau
+<lb/>Volentdir: O <seg type="lexis" subtype="children">fills</seg> de <name>Adam</name> no siau
 <lb/>desconexents a nostre senyor deu cre-
 <lb/>ador vostre: car per la gran caritat su
 <lb/>a vos ha tan carament amats: que tra-
@@ -4371,11 +4374,11 @@ Chapter 84
 <div n="21">
 <lb/>Capi.lxxxiiij.<ab>com la sen-
 <lb/>yora parti de casa de la sua
-<lb/>mare: e segui son cami.
+<lb/><seg type="lexis" subtype="mother">mare</seg>: e segui son cami.
 
-<lb/>Com la senyora parti de casa de la sua mare-
+<lb/>Com la senyora parti de casa de la sua <seg type="lexis" subtype="mother">mare</seg>-
 <lb/><note resp="hkbobs">for a detailed analysis of the following chapter, see pp. 24-25 of Chapter 4 in Holly Brown's dissertation</note>La senyora exint de la can-
-<lb/>Abra de la seyora maresua
+<lb/>Abra de la seyora <seg type="lexis" subtype="mother">mare</seg>sua
 <lb/>ynal trauessada de dolor: des-
 <lb/>xan: aquelles persones a ella
 <lb/>tan cares en grandissima pena: deua-
@@ -4429,12 +4432,12 @@ Chapter 84
 <lb/>lagues abrigarlos: E la senyoria
 <lb/>non permes ans lo prega molt ques
 <lb/>vulgues tornar abrigar dientli.</ab><ab>o Jo-
-<lb/>seph pare meua mi nom cal player
+<lb/>seph <seg type="lexis" subtype="father">pare</seg> meua mi nom cal player
 <lb/>de la pena quesofir perajudar al menfil-
 <lb/>car en totes coses lo vull seruir Ir-
 <lb/>frigore el nuditate.</ab><ab>E sentir per ell pe-
 <lb/>na es a mi repos e vida.</ab><ab>abrigauvos
-<lb/>virtuos pare: car la edat vuestra no es
+<lb/>virtuos <seg type="lexis" subtype="father">pare</seg>: car la edat vuestra no es
 <lb/>para comportar força de tan exstren fret:
 <lb/>e a mi seria mes pena veures passar
 <lb/>fret que sentirlo en la propria persona.</ab><ab>E
@@ -4449,7 +4452,7 @@ Chapter 84
 <lb/>mana lo seu fill a <seg type="lexis" subtype="authority"><name>Joseph</name></seg>: e con fon-
 <lb/>a cauall cobra aquel tresoriestimable
 <lb/>e posantlo sobre la sua falda alça los
-<lb/>vlls al cel suplicant al pare eternal: que
+<lb/>vlls al cel suplicant al <seg type="lexis" subtype="father">pare</seg> eternal: que
 <lb/>la vulla endrecaren lo seuvia tge dientli-
 <lb/>Uias tuas dñe demonstra mi hi &amp; mu-
 <lb/>ro tuo iexpugnabili circuncige nos &amp;
@@ -4498,7 +4501,7 @@ Chapter 84
 <lb/>nollaren se dauant la magestat sua con-
 <lb/>templantab infinides lagrimes la po-
 <lb/>bretat e humilacio de la excellencia:
-<lb/>E dixli la senyora mare sua ab vna
+<lb/>E dixli la senyora <seg type="lexis" subtype="mother">mare</seg> sua ab vna
 <lb/>gtandissima feruor.</ab><ab>O clement deue-
 
 <lb/>que p vesitar a ells son del cel deuallar:
@@ -4555,7 +4558,7 @@ Chapter 84
 <lb/>tals e tants turments deliberau so-
 <lb/>stenir: E <seg type="lexis" subtype="authority"><name>Joseph</name></seg> mirantla dolçor que
 <lb/>lo senyor mostraua en la sua careta:
-<lb/>els affalachs que la sua mare li feya:
+<lb/>els affalachs que la sua <seg type="lexis" subtype="mother">mare</seg> li feya:
 <lb/>e les paraules transcendenta que li deya
 <lb/>staua fora si mateixe deya.</ab><ab>Siue in-
 <lb/>corpere siueextra corpo nescio: del scit.</ab><ab><lb/>Volentdir: O semyor si so en lo corgo
@@ -4583,7 +4586,7 @@ Chapter 84
 <lb/>jar al seu fill tenintlo segudet en la
 <lb/>sua falda posantli los bocineta en
 <lb/>la <seg type="lexis" subtype="body"><seg type="lexis" subtype="body">boca</seg></seg>: E apres que lo senyor hague
-<lb/>menjat la semyora mare sua e <seg type="lexis" subtype="authority"><name>Joseph</name></seg>
+<lb/>menjat la semyora <seg type="lexis" subtype="mother">mare</seg> sua e <seg type="lexis" subtype="authority"><name>Joseph</name></seg>
 <lb/>se dinaren ab sola fruyta e pa: car los
 
 <lb/>os estojauen peral senyor que aldre no
@@ -4738,7 +4741,7 @@ Chapters 116, 117
 <lb/>contra lo benigne senyor.</ab><ab>E samages-
 <lb/>tat ab torli fosmolt manifesta la ma-
 <lb/>licia intrinseca de aquells parlauals
-<lb/>ab molta dolçor axicom a pare quels
+<lb/>ab molta dolçor axicom a <seg type="lexis" subtype="father">pare</seg> quels
 <lb/>volia tirar a la concixença sua: e mol-
 <lb/>tes vegades los parlaua ab parabo
 
@@ -4755,7 +4758,7 @@ Chapters 116, 117
 <lb/>continuaua la sua preycacio ab multi-
 <lb/>ssima caritat desijant la salut general
 <lb/>de tots e preycaua molt souinten lo 
-<lb/>temple hon concorria gran multitur-
+<lb/><seg type="lexis" subtype="place">temple</seg> hon concorria gran multitur-
 <lb/>de poble.</ab><ab>los quals hoyen lo seyor ab-
 <lb/>gran plaer: e augmentauen en la deuo
 <lb/>cio e estima de sa excellencia: vehent la
@@ -4768,8 +4771,8 @@ Chapters 116, 117
 <lb/>en amagat deyen mal de la senyoria.</ab><ab><lb/>E de aço se clamaua sa magestat per-
 <lb/>la <seg type="lexis" subtype="body">boca</seg> de <seg type="lexis" subtype="name">Dauid</seg>: dient.¶ Qui re-
 <lb/>tribuunt mala pro bonis detrahebant-
-<lb/>mihi: quoniam sequebar bonitatez.</ab><ab><lb/>Volent dir dreçant son parlar al pare-
-<lb/>seu.</ab><ab>O pare eternal a vostra alta sen-
+<lb/>mihi: quoniam sequebar bonitatez.</ab><ab><lb/>Volent dir dreçant son parlar al <seg type="lexis" subtype="father">pare</seg>-
+<lb/>seu.</ab><ab>O <seg type="lexis" subtype="father">pare</seg> eternal a vostra alta sen-
 <lb/>yoria es manifest que aquesta genta
 <lb/>qui hauen trames me reten mal guar-
 <lb/>do perlos beneficis a ells fets: e no ce-
@@ -4800,8 +4803,8 @@ Com lo senyor conuertila <seg type="lexis" subtype="authority"><name>Magdalena</
 <lb/>se
 <lb/>retada: singular en bella e-
 <lb/>gracia sobre totes les dones del stat
-<lb/>seu: franqua de senyoria de pare e de
-<lb/>mare: carja eren morts: deixanta aque
+<lb/>seu: franqua de senyoria de <seg type="lexis" subtype="father">pare</seg> e de
+<lb/><seg type="lexis" subtype="mother">mare</seg>: carja eren morts: deixanta aque
 <lb/>lla grans riquees e abundancia de bes
 <lb/>ab tortigues vn germa e vna germa-
 <lb/>na: ella era la principal senyora e ma-
@@ -4888,7 +4891,7 @@ Com lo senyor conuertila <seg type="lexis" subtype="authority"><name>Magdalena</
 <lb/>mo a ella: parlant deles grans miseri-
 <lb/>cordies diuinals: e com ell era vengur-
 <lb/>del cel per reconciliar los peccadors
-<lb/>e fermar pauentre lo seu pare eternal
+<lb/>e fermar pauentre lo seu <seg type="lexis" subtype="father">pare</seg> eternal
 <lb/>e ells: dient.</ab><ab>Misericordiam volo
 <lb/>y non sacrificium: non en im veni vo-
 <lb/>care iustos sed peccatores ad peniten-
@@ -4898,7 +4901,7 @@ Com lo senyor conuertila <seg type="lexis" subtype="authority"><name>Magdalena</
 <lb/>al: car no so vengut per cridar los qui-
 <lb/>studien esser justs: sino aquells quis
 <lb/>confessen es concixen esser peccadors
-<lb/>es dolen de hauer offes lo meupare.</ab><ab><lb/>Car aquesta es la vera penitencia a
+<lb/>es dolen de hauer offes lo meu<seg type="lexis" subtype="father">pare</seg>.</ab><ab><lb/>Car aquesta es la vera penitencia a
 <lb/>la qual yo cride e conuide los pecadors:
 <lb/>ço es que coneguen ses propries erra
 <lb/>des: e que de cor auorreixquen aquel
@@ -4913,9 +4916,9 @@ Chapter 138
 <div n="24">
 
 
-<lb/><ab>Com lo senyor vengue lo dillus al temple.
+<lb/><ab>Com lo senyor vengue lo dillus al <seg type="lexis" subtype="place">temple</seg>.
 <lb/>yor vingue lo dilus ha pr
-<lb/>ycar en lo templee loa la
+<lb/>ycar en lo <seg type="lexis" subtype="place">temple</seg> loa la
 <lb/>offerta de la viuda po-
 <lb/>brelleta e al despre torna-
 <lb/>sa senyoria en bethania.</ab><ab>      
@@ -5028,7 +5031,7 @@ Chapter 138
 <lb/>hen sen joch della: perque tan poch ha do
 <lb/>nate van moltenganats: e dells ha dix-
 <lb/><seg type="lexis" subtype="name">Dauid</seg>.¶ <seg type="lexis" subtype="Latin">Qui habitat in celis irride
-<lb/>biteos.</seg></ab><ab>Carlo pare men que sta e habi-
+<lb/>biteos.</seg></ab><ab>Carlo <seg type="lexis" subtype="father">pare</seg> men que sta e habi-
 <lb/>ta en lo cel se trauescarn de ells: els te-
 <lb/>en abominacio e perseparats de la sua a-
 <lb/>mor e gracia.</ab><ab>Dit aço la magestarse
@@ -5037,17 +5040,17 @@ Chapter 138
 <lb/>volgueren menjar viu si possible los
 <lb/>fosstat.</ab><ab>e plegant sa senyoria a beta-
 <lb/>nia fon rebutab singular amor e de-
-<lb/>uocio per la excellent mare sua e perla-
+<lb/>uocio per la excellent <seg type="lexis" subtype="mother">mare</seg> sua e perla-
 <lb/>gloriosa <seg type="lexis" subtype="authority"><name>Magdalena</name></seg> e tots se alegra
 <lb/>ren molt de la venguda de sa clemen-
 <lb/>cia.</ab><ab>E la caritatiua martha aparella
 <lb/>prest lo dinar: car sabia que venia de
 
 
-<lb/>ju: que en la ciutat de hierusalez negu-
+<lb/>ju: que en <seg type="lexis" subtype="place">la ciutat de hierusalez</seg> negu-
 <lb/>no y hauia que pensas en la salut de sa-
 <lb/>real personane en lo repos de aquella:
-<lb/>ans desijauen la morte destructio sua:
+<lb/>ans desijauen <seg type="lexis" subtype="body">la morte</seg> destructio sua:
 <lb/>principalment los majors quiab hoy
 <lb/>implacable lo auorrie.</ab><ab>e perço es dix-
 <lb/>de aquesta desolada ciutat.</ab><ab>¶Deser
