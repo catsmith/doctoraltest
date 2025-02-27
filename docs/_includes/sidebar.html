@@ -3,6 +3,11 @@
     <li {% if page.url == '/' %}class="active"{% endif %}><a href="/doctoraltest">Home</a></li>
     <li {% if page.url contains 'methodology' %}class="active"{% endif %}><a href="/doctoraltest/methodology">Methodology</a></li>
     <li>The Texts</li>
+      <ul class="submenu">
+        <li {% if page.url contains 'texts/memorias' %}class="active"{% endif %}><a href="/doctoraltest/texts/memorias">Memorias</a></li>
+        <li {% if page.url contains 'texts/vita' %}class="active"{% endif %}><a href="/doctoraltest/texts/vita">Vita Christi</a></li>
+        <li {% if page.url contains 'texts/arboleda' %}class="active"{% endif %}><a href="/doctoraltest/texts/arboleda">Arboleda de los enfermos</a></li>
+      </ul>
     <li>The Authors</li>
     <li {% if page.url contains 'taxonomy' %}class="active"{% endif %}><a href="/doctoraltest/taxonomy">Taxonomy</a></li>
     <li>Transcriptions</li>
