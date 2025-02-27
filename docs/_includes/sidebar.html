@@ -1,8 +1,9 @@
 <nav>
   <ul>
     <li {% if page.url == '/' %}class="active"{% endif %}><a href="/doctoraltest">Home</a></li>
-    <li {% if page.url contains 'biographies' %}class="active"{% endif %}><a href="/doctoraltest/biographies">Biographies</a></li>
     <li {% if page.url contains 'methodology' %}class="active"{% endif %}><a href="/doctoraltest/methodology">Methodology</a></li>
+    <li>The Texts</li>
+    <li>The Authors</li>
     <li {% if page.url contains 'taxonomy' %}class="active"{% endif %}><a href="/doctoraltest/taxonomy">Taxonomy</a></li>
     <li {% if page.url contains 'transcriptions' %}class="active"{% endif %}><a href="/doctoraltest/transcriptions">Transcriptions</a></li>
     <ul class="submenu">
