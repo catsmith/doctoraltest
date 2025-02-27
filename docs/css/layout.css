@@ -9,7 +9,7 @@ body {
     margin: 0;
     background: #FFE8D1; 
     display: grid;
-    grid-template-rows: 1fr 1fr 30px;
+    grid-template-rows: max-content 1fr 30px;
     min-height: 100vh;
 }
 
