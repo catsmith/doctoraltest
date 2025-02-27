@@ -9,7 +9,7 @@ body {
     margin: 0;
     background: #FFE8D1; 
     display: grid;
-    grid-template-rows: 100px 1fr 30px;
+    grid-template-rows: 1fr 1fr 30px;
     min-height: 100vh;
 }
 
@@ -17,7 +17,7 @@ header {
   background: #826251;
   color: white; 
   font-size: 2em;
-  fint-weight: bold;
+  font-weight: bold;
   padding: 10px;
   padding-top: 30px;
   text-align: center;
