@@ -5,16 +5,21 @@
     <li>The Texts</li>
       <ul class="submenu">
         <li {% if page.url contains 'texts/memorias' %}class="active"{% endif %}><a href="/doctoraltest/texts/memorias">Memorias</a></li>
-        <li {% if page.url contains 'texts/vita' %}class="active"{% endif %}><a href="/doctoraltest/texts/vita">Vita Christi</a></li>
         <li {% if page.url contains 'texts/arboleda' %}class="active"{% endif %}><a href="/doctoraltest/texts/arboleda">Arboleda de los enfermos</a></li>
+        <li {% if page.url contains 'texts/vita' %}class="active"{% endif %}><a href="/doctoraltest/texts/vita">Vita Christi</a></li>
       </ul>
     <li>The Authors</li>
+      <ul class="submenu">
+        <li {% if page.url contains 'authors/lopez' %}class="active"{% endif %}><a href="/doctoraltest/authors/lopez">Leonor López de Córdoba</a></li>
+        <li {% if page.url contains 'authors/teresa' %}class="active"{% endif %}><a href="/doctoraltest/authors/teresa">Teresa de Cartagena</a></li>
+        <li {% if page.url contains 'authors/isabel' %}class="active"{% endif %}><a href="/doctoraltest/authors/isabel">Isabel de Villena</a></li>
+      </ul>
     <li {% if page.url contains 'taxonomy' %}class="active"{% endif %}><a href="/doctoraltest/taxonomy">Taxonomy</a></li>
     <li>Transcriptions</li>
     <ul class="submenu">
       <li {% if page.url contains 'transcriptions/memorias' %}class="active"{% endif %}><a href="/doctoraltest/transcriptions/memorias">Memorias</a></li>
-      <li {% if page.url contains 'transcriptions/vita' %}class="active"{% endif %}><a href="/doctoraltest/transcriptions/vita">Vita Christi</a></li>
       <li {% if page.url contains 'transcriptions/arboleda' %}class="active"{% endif %}><a href="/doctoraltest/transcriptions/arboleda">Arboleda de los enfermos</a></li>
+      <li {% if page.url contains 'transcriptions/vita' %}class="active"{% endif %}><a href="/doctoraltest/transcriptions/vita">Vita Christi</a></li>
     </ul>
     <li {% if page.url contains 'downloads' %}class="active"{% endif %}><a href="/doctoraltest/downloads">Downloads</a></li>
   </ul>
